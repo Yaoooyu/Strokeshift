@@ -1,0 +1,5 @@
+method: probability_level_logistic_stacking
+modalities: [CT, EHR, Report]
+fit_split: A-val
+regularization_C: 1.0
+random_state: 42

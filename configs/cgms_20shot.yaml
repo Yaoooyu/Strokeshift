@@ -1,0 +1,16 @@
+support_size: 20
+seeds: [42, 43, 44, 45, 46]
+candidate_strategies:
+  - none
+  - CT
+  - EHR
+  - Report
+  - CT+EHR
+  - CT+Report
+  - EHR+Report
+  - All
+calibration_method: Platt scaling
+selection_metric: support_brier
+final_method: CGMS-Stacking
+final_instantiation: report-calibrated center-wise instantiation
+note: query labels are used only for final evaluation

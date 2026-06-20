@@ -1,0 +1,137 @@
+patient_id,center_id,ct_path,ehr_features,report_text,label,split
+toy_0001,A,ct/toy_0001.npy,"[0.96439, 0.22486, -0.69079, -0.9084, 1.58875, 0.65334]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-train
+toy_0002,A,ct/toy_0002.npy,"[-0.48696, -0.02382, -0.31948, 0.31221, 1.41689, -0.61114]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-train
+toy_0003,A,ct/toy_0003.npy,"[-1.33858, 0.18662, -1.91486, -0.76863, 2.47999, -0.64127]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-train
+toy_0004,A,ct/toy_0004.npy,"[0.51205, 0.41048, -1.35718, -0.73047, -0.21558, -0.93907]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-train
+toy_0005,A,ct/toy_0005.npy,"[1.17572, -0.26942, -0.25152, -1.25295, 0.86882, 1.94194]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-train
+toy_0006,A,ct/toy_0006.npy,"[1.02622, 0.22716, 0.87011, 2.73073, -0.31313, 1.74128]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0007,A,ct/toy_0007.npy,"[0.23352, 1.78592, -0.31029, -1.16636, -2.2408, -1.21154]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-train
+toy_0008,A,ct/toy_0008.npy,"[-0.65864, 1.00002, 1.1388, -0.14379, 2.6079, 2.60427]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0009,A,ct/toy_0009.npy,"[-0.66913, 0.40124, -1.57817, 1.4465, 1.71687, 1.58342]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0010,A,ct/toy_0010.npy,"[1.29005, 1.52805, 0.15669, 2.3329, -0.04703, -1.05708]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-train
+toy_0011,A,ct/toy_0011.npy,"[1.7284, 2.12093, 1.73096, 0.67545, -3.22216, 1.51303]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0012,A,ct/toy_0012.npy,"[0.15261, 0.18289, 0.4526, 0.03967, 0.17355, 0.28173]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-train
+toy_0013,A,ct/toy_0013.npy,"[-0.28248, 0.96836, 0.97122, 0.17268, 0.21878, -0.80626]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0014,A,ct/toy_0014.npy,"[-1.24466, -0.21578, -0.23546, 1.78525, 1.68757, 1.62569]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-train
+toy_0015,A,ct/toy_0015.npy,"[1.61846, -0.33464, -0.33239, 1.67025, 0.8168, -0.56362]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-train
+toy_0016,A,ct/toy_0016.npy,"[3.30936, 1.79562, -0.69302, 1.00396, -1.04219, -1.11213]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0017,A,ct/toy_0017.npy,"[2.57573, 0.52682, 1.41586, 0.74842, 0.35381, 0.63073]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-train
+toy_0018,A,ct/toy_0018.npy,"[1.0895, 0.96318, 1.39607, 0.18364, 1.21159, -0.11593]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-train
+toy_0019,A,ct/toy_0019.npy,"[0.04883, -1.14308, 1.19264, 1.76257, 0.07079, 1.84443]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-train
+toy_0020,A,ct/toy_0020.npy,"[-0.80633, -1.00025, 0.0959, 0.95961, -0.66355, -0.82653]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-train
+toy_0021,A,ct/toy_0021.npy,"[2.64173, 0.33095, 1.40282, 1.31747, -0.32984, -0.47384]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0022,A,ct/toy_0022.npy,"[-0.36063, -0.24987, 0.9155, -0.14928, -2.53335, 1.12201]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-train
+toy_0023,A,ct/toy_0023.npy,"[1.16297, -0.16382, 3.11299, 0.26124, 0.09563, 1.19449]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0024,A,ct/toy_0024.npy,"[2.02863, 0.9981, 0.02464, -0.24717, 0.96179, 0.47124]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-train
+toy_0025,A,ct/toy_0025.npy,"[-0.25588, 0.61461, 0.67381, 1.46408, -2.38291, -1.81352]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-train
+toy_0026,A,ct/toy_0026.npy,"[1.02818, 1.60091, 2.71639, 1.309, 1.41977, 2.75696]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0027,A,ct/toy_0027.npy,"[1.44056, 1.64945, 1.48625, 1.72615, 0.14206, 2.50176]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0028,A,ct/toy_0028.npy,"[1.70386, -0.09316, 1.31828, 2.20301, 0.80278, 1.04221]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0029,A,ct/toy_0029.npy,"[0.19357, -0.70014, -1.06681, 0.06095, 0.1208, -0.19854]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-train
+toy_0030,A,ct/toy_0030.npy,"[3.02136, 1.33978, -0.18392, -1.17034, 0.71064, 2.52742]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0031,A,ct/toy_0031.npy,"[1.38188, -0.74418, 0.48185, -1.05312, -1.18423, 0.64717]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-train
+toy_0032,A,ct/toy_0032.npy,"[-1.22102, 0.55024, -0.94139, -1.42373, 1.00108, 0.47343]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-train
+toy_0033,A,ct/toy_0033.npy,"[-0.3444, -0.14801, 1.43835, 2.29196, -1.20953, 1.57017]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0034,A,ct/toy_0034.npy,"[2.16899, 0.64157, 1.91829, 0.48665, 2.69453, 1.13627]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0035,A,ct/toy_0035.npy,"[-2.0105, 0.77811, -1.19712, 0.28735, -0.45716, 0.02394]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-train
+toy_0036,A,ct/toy_0036.npy,"[1.97454, -0.60241, -1.15992, 0.84362, -1.18154, 0.60027]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0037,A,ct/toy_0037.npy,"[1.44205, -1.23942, 1.00045, 3.72821, 1.08606, 2.30873]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0038,A,ct/toy_0038.npy,"[0.5915, 0.85538, 1.01865, 0.55935, 1.78704, 0.78561]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-train
+toy_0039,A,ct/toy_0039.npy,"[-0.99212, 1.22618, 1.27969, -0.78255, -0.39118, -1.34646]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-train
+toy_0040,A,ct/toy_0040.npy,"[-1.82014, -0.28907, 0.27682, -0.01147, 2.25494, 0.34159]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-train
+toy_0041,A,ct/toy_0041.npy,"[1.62233, -0.65244, 1.60237, 1.68134, 0.70019, 1.41072]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-train
+toy_0042,A,ct/toy_0042.npy,"[1.49913, 0.15128, 0.38888, -0.83979, -0.23941, 1.09791]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-train
+toy_0043,A,ct/toy_0043.npy,"[0.16739, -0.15818, -1.61019, -0.87451, -0.0958, -3.18016]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-train
+toy_0044,A,ct/toy_0044.npy,"[-1.11339, 0.32377, 1.23447, -0.17263, -0.27031, -1.85737]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-train
+toy_0045,A,ct/toy_0045.npy,"[-2.68022, 0.38427, -0.03355, 1.11184, 2.24385, -0.20668]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-train
+toy_0046,A,ct/toy_0046.npy,"[0.33328, -2.47404, -0.01169, -1.07349, 0.63182, 1.05113]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-train
+toy_0047,A,ct/toy_0047.npy,"[0.39689, 1.71828, 0.68788, 1.84081, 3.34017, 2.61382]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-train
+toy_0048,A,ct/toy_0048.npy,"[-1.37193, -1.33798, 0.94339, -0.7554, -0.78697, 2.173]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-train
+toy_0049,A,ct/toy_0049.npy,"[0.33858, -0.69755, -1.17481, 1.66762, -0.26254, -0.07537]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-val
+toy_0050,A,ct/toy_0050.npy,"[-0.37125, 0.59859, -0.27063, 1.69693, -1.01882, -1.35812]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-val
+toy_0051,A,ct/toy_0051.npy,"[1.23317, 0.22626, 0.80658, 2.00163, 2.36621, 0.03095]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-val
+toy_0052,A,ct/toy_0052.npy,"[2.17603, 0.71291, 1.28431, 0.47234, 0.54477, 1.97962]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-val
+toy_0053,A,ct/toy_0053.npy,"[0.66945, 2.21544, 0.79097, -1.2245, 0.02452, -0.72223]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-val
+toy_0054,A,ct/toy_0054.npy,"[-0.15742, -0.06975, -1.04516, -1.14747, -2.08852, 0.02582]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-val
+toy_0055,A,ct/toy_0055.npy,"[-0.55934, 0.2397, -0.21165, 0.17101, 1.37035, 1.50931]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-val
+toy_0056,A,ct/toy_0056.npy,"[0.32995, -0.30976, 0.14248, 0.82841, 2.30939, -0.45897]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-val
+toy_0057,A,ct/toy_0057.npy,"[2.75673, -1.05388, -0.09558, -0.58063, 1.68956, -0.95634]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-val
+toy_0058,A,ct/toy_0058.npy,"[1.39303, 0.63686, 2.1685, -2.14038, 0.32036, -0.41951]",no intracranial bleeding on synthetic scan center_a synthetic documentation,0,A-val
+toy_0059,A,ct/toy_0059.npy,"[0.14844, 1.16973, 2.43435, 1.58231, 2.41338, -1.24771]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-val
+toy_0060,A,ct/toy_0060.npy,"[-0.56246, 0.97244, 0.41359, -0.24716, -0.16915, -0.2569]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-val
+toy_0061,A,ct/toy_0061.npy,"[0.31142, 1.66974, 0.18481, -0.00061, -1.44179, 1.16687]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-val
+toy_0062,A,ct/toy_0062.npy,"[-1.33317, -0.65174, -0.61866, 0.28512, -0.44549, -0.05628]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-val
+toy_0063,A,ct/toy_0063.npy,"[0.7791, 0.85953, -0.62331, 0.8968, 0.25161, -1.16374]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-val
+toy_0064,A,ct/toy_0064.npy,"[1.5452, -0.70087, 1.4238, 2.42088, 0.60502, 2.44846]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-val
+toy_0065,A,ct/toy_0065.npy,"[0.52035, 0.65865, -1.09917, -0.48989, 0.4621, 3.27638]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-val
+toy_0066,A,ct/toy_0066.npy,"[-2.37772, 0.42465, -0.09359, 0.4372, 0.92001, 0.45723]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-val
+toy_0067,A,ct/toy_0067.npy,"[-1.44492, -0.32516, 1.17775, -1.83457, 0.27634, -2.78604]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-val
+toy_0068,A,ct/toy_0068.npy,"[1.29664, 1.98442, -0.37201, -0.16612, 2.32071, 1.8419]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-val
+toy_0069,A,ct/toy_0069.npy,"[-0.11318, 0.9621, -0.37459, -0.93745, 1.08726, 0.657]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-val
+toy_0070,A,ct/toy_0070.npy,"[0.01937, 0.33128, 0.36696, 0.63461, -1.28355, 1.58966]",no acute hemorrhage stable appearance center_a synthetic documentation,0,A-val
+toy_0071,A,ct/toy_0071.npy,"[-0.89637, 0.71018, 1.66232, 0.3626, 0.85361, 0.86398]",acute bleeding pattern in toy example center_a synthetic documentation,1,A-val
+toy_0072,A,ct/toy_0072.npy,"[0.42662, 0.71909, -0.04537, -0.70765, 1.94603, -0.30698]",synthetic hemorrhage finding present center_a synthetic documentation,1,A-val
+toy_0073,B,ct/toy_0073.npy,"[-1.38803, 2.33364, -0.1183, 0.43156, 2.03324, 1.56706]",acute bleeding pattern in toy example center_b synthetic documentation,1,B-test
+toy_0074,B,ct/toy_0074.npy,"[0.3392, -0.0244, -0.19907, 0.66043, 1.06969, -0.13172]",acute bleeding pattern in toy example center_b synthetic documentation,1,B-test
+toy_0075,B,ct/toy_0075.npy,"[-0.57635, 0.57522, -0.81023, 0.40179, 0.16184, 0.83892]",no acute hemorrhage stable appearance center_b synthetic documentation,0,B-test
+toy_0076,B,ct/toy_0076.npy,"[-1.60055, 0.12204, 0.75995, 0.67297, -0.5154, 0.79188]",acute bleeding pattern in toy example center_b synthetic documentation,1,B-test
+toy_0077,B,ct/toy_0077.npy,"[1.31849, 0.61496, 0.65519, -0.14853, 0.73706, 0.18071]",no acute hemorrhage stable appearance center_b synthetic documentation,0,B-test
+toy_0078,B,ct/toy_0078.npy,"[1.20677, 1.20156, 3.2839, -0.25439, 3.38099, 0.37326]",synthetic hemorrhage finding present center_b synthetic documentation,1,B-test
+toy_0079,B,ct/toy_0079.npy,"[0.16757, 2.08722, 0.15289, 0.83189, -0.86189, -2.62194]",no intracranial bleeding on synthetic scan center_b synthetic documentation,0,B-test
+toy_0080,B,ct/toy_0080.npy,"[0.29365, 1.67596, 0.65991, 0.61913, 1.54766, -0.44433]",no acute hemorrhage stable appearance center_b synthetic documentation,0,B-test
+toy_0081,B,ct/toy_0081.npy,"[-0.63461, 0.12769, 0.70403, -0.80701, -0.44232, -1.06067]",no acute hemorrhage stable appearance center_b synthetic documentation,0,B-test
+toy_0082,B,ct/toy_0082.npy,"[1.75026, -0.9006, 0.39047, -1.00857, 1.86472, -1.69294]",no intracranial bleeding on synthetic scan center_b synthetic documentation,0,B-test
+toy_0083,B,ct/toy_0083.npy,"[-0.38866, 2.04855, 1.94389, 1.75118, 0.61772, 2.50151]",synthetic hemorrhage finding present center_b synthetic documentation,1,B-test
+toy_0084,B,ct/toy_0084.npy,"[-0.43464, -0.72514, -0.38832, 0.33092, -1.08475, -0.5013]",no acute hemorrhage stable appearance center_b synthetic documentation,0,B-test
+toy_0085,B,ct/toy_0085.npy,"[0.57563, 0.58614, -0.77712, -0.52873, -0.24965, -2.87806]",no acute hemorrhage stable appearance center_b synthetic documentation,0,B-test
+toy_0086,B,ct/toy_0086.npy,"[1.19418, -0.38769, 0.62017, 0.58273, 0.01707, -1.60255]",no intracranial bleeding on synthetic scan center_b synthetic documentation,0,B-test
+toy_0087,B,ct/toy_0087.npy,"[0.99033, 1.48238, 2.46297, 3.71709, 1.80416, -0.38453]",synthetic hemorrhage finding present center_b synthetic documentation,1,B-test
+toy_0088,B,ct/toy_0088.npy,"[-0.03543, 1.27502, -0.32052, 0.26945, 1.41896, -1.58223]",acute bleeding pattern in toy example center_b synthetic documentation,1,B-test
+toy_0089,B,ct/toy_0089.npy,"[1.21571, 2.71, 0.92645, 1.72102, 1.60577, 1.40193]",synthetic hemorrhage finding present center_b synthetic documentation,1,B-test
+toy_0090,B,ct/toy_0090.npy,"[-1.11026, -0.40195, -0.41902, -0.16426, -0.14584, -0.56682]",no intracranial bleeding on synthetic scan center_b synthetic documentation,0,B-test
+toy_0091,B,ct/toy_0091.npy,"[1.89522, 0.66158, -0.681, -0.57705, -0.14199, -0.3669]",no acute hemorrhage stable appearance center_b synthetic documentation,0,B-test
+toy_0092,B,ct/toy_0092.npy,"[0.21096, 0.50841, 2.85884, -1.09676, -0.45624, -0.1104]",no acute hemorrhage stable appearance center_b synthetic documentation,0,B-test
+toy_0093,B,ct/toy_0093.npy,"[1.11484, -1.42794, 1.19446, -0.31941, -0.93605, 1.08089]",no acute hemorrhage stable appearance center_b synthetic documentation,0,B-test
+toy_0094,B,ct/toy_0094.npy,"[0.61592, 1.09818, 2.57628, 0.21013, -0.8842, 0.8049]",no acute hemorrhage stable appearance center_b synthetic documentation,0,B-test
+toy_0095,B,ct/toy_0095.npy,"[-1.04658, 0.87964, -0.13053, 0.31589, -0.40111, 0.23467]",no acute hemorrhage stable appearance center_b synthetic documentation,0,B-test
+toy_0096,B,ct/toy_0096.npy,"[-2.0852, -0.36133, 0.51256, 1.44523, 1.12923, 0.6089]",no intracranial bleeding on synthetic scan center_b synthetic documentation,0,B-test
+toy_0097,C,ct/toy_0097.npy,"[1.39237, 0.64651, -0.92523, 0.15436, 0.4129, -0.10618]",acute bleeding pattern in toy example center_c synthetic documentation,1,C-test
+toy_0098,C,ct/toy_0098.npy,"[1.34432, 1.36216, 0.24767, -0.41975, 2.38121, 0.34188]",synthetic hemorrhage finding present center_c synthetic documentation,1,C-test
+toy_0099,C,ct/toy_0099.npy,"[0.4422, 0.05691, 2.30718, 1.26342, 0.69412, -1.39512]",synthetic hemorrhage finding present center_c synthetic documentation,1,C-test
+toy_0100,C,ct/toy_0100.npy,"[1.07309, 0.88966, -0.56545, -0.19711, 0.98852, 0.64689]",synthetic hemorrhage finding present center_c synthetic documentation,1,C-test
+toy_0101,C,ct/toy_0101.npy,"[1.1837, 1.27014, 1.53824, -1.10224, -1.18852, 1.09513]",no acute hemorrhage stable appearance center_c synthetic documentation,0,C-test
+toy_0102,C,ct/toy_0102.npy,"[-0.29197, -0.90457, -1.87178, 1.45289, -1.30322, -2.5393]",no acute hemorrhage stable appearance center_c synthetic documentation,0,C-test
+toy_0103,C,ct/toy_0103.npy,"[1.78517, -0.39496, 1.20773, 0.91315, -1.16382, 1.81575]",acute bleeding pattern in toy example center_c synthetic documentation,1,C-test
+toy_0104,C,ct/toy_0104.npy,"[0.15253, -1.75683, -2.16654, -0.90201, 0.44027, -0.33627]",no intracranial bleeding on synthetic scan center_c synthetic documentation,0,C-test
+toy_0105,C,ct/toy_0105.npy,"[-0.81331, -0.36889, 2.10512, -0.13181, 1.2465, -1.90386]",synthetic hemorrhage finding present center_c synthetic documentation,1,C-test
+toy_0106,C,ct/toy_0106.npy,"[1.67764, 1.45422, 2.28692, 0.13034, 0.78163, -0.56384]",acute bleeding pattern in toy example center_c synthetic documentation,1,C-test
+toy_0107,C,ct/toy_0107.npy,"[-0.99084, -0.90192, 0.3749, -0.7363, -0.94125, 0.59031]",no acute hemorrhage stable appearance center_c synthetic documentation,0,C-test
+toy_0108,C,ct/toy_0108.npy,"[-0.50053, 1.45907, 0.86777, 1.57297, 0.05099, 1.04723]",acute bleeding pattern in toy example center_c synthetic documentation,1,C-test
+toy_0109,C,ct/toy_0109.npy,"[2.80399, -1.23496, -1.14705, 0.05372, 0.23567, -1.73249]",no intracranial bleeding on synthetic scan center_c synthetic documentation,0,C-test
+toy_0110,C,ct/toy_0110.npy,"[-0.45717, 0.82694, -0.16699, -0.93207, -0.25037, 0.06004]",no intracranial bleeding on synthetic scan center_c synthetic documentation,0,C-test
+toy_0111,C,ct/toy_0111.npy,"[-1.32229, 1.85289, 2.45754, 0.6212, 1.26826, -0.21851]",acute bleeding pattern in toy example center_c synthetic documentation,1,C-test
+toy_0112,C,ct/toy_0112.npy,"[-0.61447, 1.78506, 0.29648, 1.07889, -1.19473, -0.05234]",synthetic hemorrhage finding present center_c synthetic documentation,1,C-test
+toy_0113,C,ct/toy_0113.npy,"[-0.3739, -0.90269, 0.06843, -2.26136, -1.47531, 1.12996]",no intracranial bleeding on synthetic scan center_c synthetic documentation,0,C-test
+toy_0114,C,ct/toy_0114.npy,"[-2.22896, 0.49494, 1.09039, -0.33, -2.21747, 0.91175]",synthetic hemorrhage finding present center_c synthetic documentation,1,C-test
+toy_0115,C,ct/toy_0115.npy,"[1.07665, -0.29169, 1.08036, 2.55585, -0.08633, 0.1635]",no intracranial bleeding on synthetic scan center_c synthetic documentation,0,C-test
+toy_0116,C,ct/toy_0116.npy,"[-2.6675, 0.97627, 1.60366, -0.91409, 1.19359, -0.88685]",no intracranial bleeding on synthetic scan center_c synthetic documentation,0,C-test
+toy_0117,C,ct/toy_0117.npy,"[1.28791, -0.00012, -0.0265, 0.02486, -1.68038, -1.33118]",synthetic hemorrhage finding present center_c synthetic documentation,1,C-test
+toy_0118,C,ct/toy_0118.npy,"[1.14315, -1.22459, -0.40936, 1.1189, 0.31741, 1.13169]",synthetic hemorrhage finding present center_c synthetic documentation,1,C-test
+toy_0119,C,ct/toy_0119.npy,"[-1.51052, -2.63965, -0.80082, -0.22885, -0.8635, 0.25736]",no acute hemorrhage stable appearance center_c synthetic documentation,0,C-test
+toy_0120,C,ct/toy_0120.npy,"[0.8199, -1.54497, -1.97012, -0.39043, -0.2101, -0.85818]",no acute hemorrhage stable appearance center_c synthetic documentation,0,C-test
+toy_0121,C,ct/toy_0121.npy,"[2.26353, -1.47959, -0.67773, 0.14943, -1.21664, -0.23987]",no acute hemorrhage stable appearance center_c synthetic documentation,0,C-test
+toy_0122,C,ct/toy_0122.npy,"[0.27355, 1.7953, 0.61645, -0.85145, -0.47363, 0.44215]",acute bleeding pattern in toy example center_c synthetic documentation,1,C-test
+toy_0123,C,ct/toy_0123.npy,"[0.35804, -0.46038, 0.93721, 0.07058, -0.32516, 2.56446]",synthetic hemorrhage finding present center_c synthetic documentation,1,C-test
+toy_0124,C,ct/toy_0124.npy,"[-1.56618, 1.97377, -1.05091, -0.96639, 0.4689, -0.91118]",no intracranial bleeding on synthetic scan center_c synthetic documentation,0,C-test
+toy_0125,C,ct/toy_0125.npy,"[-0.07023, 1.01673, 0.89599, 0.8178, -0.31512, 0.40438]",synthetic hemorrhage finding present center_c synthetic documentation,1,C-test
+toy_0126,C,ct/toy_0126.npy,"[0.69478, 2.17911, -0.86002, -0.53429, 0.58765, -0.0891]",synthetic hemorrhage finding present center_c synthetic documentation,1,C-test
+toy_0127,C,ct/toy_0127.npy,"[-1.22454, -0.97933, 0.0002, -1.6426, 1.57752, 0.96567]",no acute hemorrhage stable appearance center_c synthetic documentation,0,C-test
+toy_0128,C,ct/toy_0128.npy,"[-1.78935, 0.35211, 0.38843, 0.67322, 0.53817, -1.77159]",no acute hemorrhage stable appearance center_c synthetic documentation,0,C-test
+toy_0129,C,ct/toy_0129.npy,"[-1.66556, -0.8426, -0.98356, 0.2674, 0.46788, -1.33255]",no acute hemorrhage stable appearance center_c synthetic documentation,0,C-test
+toy_0130,C,ct/toy_0130.npy,"[0.29607, -0.92805, -0.0681, -0.17033, -0.78439, -1.27554]",no intracranial bleeding on synthetic scan center_c synthetic documentation,0,C-test
+toy_0131,C,ct/toy_0131.npy,"[-0.62678, 0.15128, 0.16192, -2.11038, -0.69422, -1.66333]",no intracranial bleeding on synthetic scan center_c synthetic documentation,0,C-test
+toy_0132,C,ct/toy_0132.npy,"[1.62511, -2.56626, 0.49109, -1.5803, 0.62182, 0.78647]",no intracranial bleeding on synthetic scan center_c synthetic documentation,0,C-test
+toy_0133,C,ct/toy_0133.npy,"[1.31567, 0.2836, 0.32639, 0.26772, 1.64636, 1.3636]",acute bleeding pattern in toy example center_c synthetic documentation,1,C-test
+toy_0134,C,ct/toy_0134.npy,"[0.78888, 1.73607, 0.86053, 0.98331, 0.10268, -0.00075]",synthetic hemorrhage finding present center_c synthetic documentation,1,C-test
+toy_0135,C,ct/toy_0135.npy,"[0.34292, -0.45934, -0.52659, 1.39157, -1.32485, -1.77485]",no intracranial bleeding on synthetic scan center_c synthetic documentation,0,C-test
+toy_0136,C,ct/toy_0136.npy,"[1.29046, 1.21844, -0.00896, 0.29834, 0.48913, -0.31909]",synthetic hemorrhage finding present center_c synthetic documentation,1,C-test

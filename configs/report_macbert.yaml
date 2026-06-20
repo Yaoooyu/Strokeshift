@@ -1,0 +1,7 @@
+modality: report
+encoder: MacBERT
+checkpoint: TODO_CONFIGURE_LOCALLY
+max_length: 512
+estimator: logistic_regression
+toy_encoder: tfidf
+# Private report text and fine-tuned checkpoints must remain outside Git.

@@ -1,0 +1,7 @@
+modality: ct
+input_kind: representation
+representation_dim: 8
+estimator: logistic_regression
+standardize: true
+random_state: 42
+# TODO: replace the toy representation loader with the paper's frozen CT encoder.

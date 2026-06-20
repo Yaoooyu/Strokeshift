@@ -1,0 +1,7 @@
+modality: ehr
+feature_list: data/ehr_variable_list.csv
+estimator: logistic_regression
+standardize: true
+missing_value_strategy: median
+random_state: 42
+# TODO: freeze the approved clinical variable names and preprocessing rules.
