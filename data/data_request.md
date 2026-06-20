@@ -15,4 +15,4 @@ Researchers requesting access must:
 
 Submission of a request does not guarantee access. Approval is subject to institutional review, legal constraints, ethics requirements, and the authors' ability to share the requested data.
 
-**Contact:** [corresponding author name], [institutional email]
+**Contact:** The double-blind rules will not be disclosed for the time being.
