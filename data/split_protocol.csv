@@ -1,0 +1,5 @@
+split,center,N,non_hemorrhage,hemorrhage,positive_rate,role
+A-train,A,350,189,161,0.460,training
+A-val,A,50,27,23,0.460,validation and stacking
+B-test,B,40,29,11,0.275,zero-shot external test
+C-test,C,60,31,29,0.483,external test or 20-shot support/query

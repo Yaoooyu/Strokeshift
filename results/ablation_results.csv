@@ -1,0 +1,6 @@
+Method / Selector,Selected Strategy,C-query AUC,Avg External,Notes
+Fixed candidate,Report,0.634 +/- 0.028,0.795099,Best fixed strategy in strict support-only audit
+CGMS conservative,Center-wise selected,0.622 +/- 0.041,0.786576,Selection uses support labels only
+CGMS calibration-aware,Center-wise selected,0.620 +/- 0.033,0.785323,Selection uses support labels only
+CGMS AUC,Center-wise selected,0.613 +/- 0.034,0.779871,Selection uses support labels only
+No calibration,none,0.611 +/- 0.034,0.778868,Reference baseline

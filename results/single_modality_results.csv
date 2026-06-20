@@ -1,0 +1,4 @@
+Modality,Model,B-test AUC,C-test AUC,Avg External
+CT,MedicalNet ResNet50,0.542320,0.515017,0.528668
+EHR,XGBoost,0.934169,0.571746,0.752958
+Report,Random Forest (MacBERT representation; PCA=64),0.739812,0.538376,0.639094
