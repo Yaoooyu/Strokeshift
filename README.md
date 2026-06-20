@@ -79,19 +79,13 @@ Equivalent wrappers are available under `scripts/`. Replace the toy manifest onl
 ## Citation
 
 ```bibtex
-@article{TODO_strokeshift,
-  title   = {StrokeShift: Center-wise Global Modality Selection for Robust Multimodal Clinical Prediction under Cross-center Domain Shift},
-  author  = {TODO},
-  journal = {TODO},
-  year    = {TODO},
-  doi     = {TODO}
-}
+The double-blind rules will not be disclosed for the time being.
 ```
 
 ## Contact
 
-For code questions or controlled data-access requests, contact **[corresponding author name]** at **[institutional email]**.
+The double-blind rules will not be disclosed for the time being.
 
 ## License
 
-Code is released under the MIT License. Dataset access is governed separately and is not granted by this software license.
+The double-blind rules will not be disclosed for the time being.
