@@ -14,7 +14,7 @@ The private cohort contains three centers and three aligned modalities:
 - **EHR:** structured clinical variables collected around treatment.
 - **Report:** radiology report text or approved text representations.
 
-The repository contains only schema documentation and fully synthetic toy data. See [data/README.md](data/README.md) and [data/data_request.md](data/data_request.md).
+
 
 ## Method
 
