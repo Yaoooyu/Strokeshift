@@ -76,16 +76,7 @@ Equivalent wrappers are available under `scripts/`. Replace the toy manifest onl
 - The 20-shot setting draws 20 Hospital C support samples and evaluates the remaining query samples for seeds 42-46.
 - The toy data validates code paths only; its results have no clinical meaning.
 
-## Citation
+## Dataset
 
-```bibtex
-The double-blind rules will not be disclosed for the time being.
-```
-
-## Contact
-
-The double-blind rules will not be disclosed for the time being.
-
-## License
-
-The double-blind rules will not be disclosed for the time being.
+https://pan.quark.cn/s/7d06f9e5575c?pwd=pBBk
+Code:pBBk
