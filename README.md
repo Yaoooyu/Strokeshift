@@ -4,7 +4,7 @@ Official implementation scaffold for **StrokeShift: Center-wise Global Modality 
 
 StrokeShift studies post-thrombolysis hemorrhage prediction across three clinical centers (Hospital A/B/C) using non-contrast head CT, structured EHR variables, and radiology reports. The proposed **CGMS-Stacking** pipeline builds modality-specific predictors, calibrates candidate modality subsets on a small target-center support set, selects a center-wise strategy, and produces probability-level stacked predictions.
 
-> Due to institutional privacy and ethical restrictions, the raw StrokeShift dataset is not publicly released. Researchers may request access by contacting the authors and completing the required data use agreement.
+
 
 ## Dataset
 
