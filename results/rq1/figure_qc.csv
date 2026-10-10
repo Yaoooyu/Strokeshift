@@ -1,0 +1,9 @@
+file,width_px,height_px,nonwhite_fraction,valid
+cohort_overview.png,2051,1376,0.37223865556223285,True
+cross_center_heterogeneity_map.png,2831,3163,0.5812468947014408,True
+ehr_feature_shift_heatmap.png,2748,2831,0.5603431698439557,True
+ehr_missingness_heatmap.png,2767,2942,0.13365531955353188,True
+ehr_missingness_per_patient.png,2451,1410,0.3617137020350646,True
+native_ct_acquisition_distributions.png,3685,2559,0.047847939244415244,True
+native_ct_scanner_distribution.png,2397,1540,0.16288000693507576,True
+selected_ehr_distributions.png,4125,2430,0.2039900236937274,True

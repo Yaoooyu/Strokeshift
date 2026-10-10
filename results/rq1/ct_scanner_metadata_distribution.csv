@@ -1,0 +1,58 @@
+variable,center,level,n,percent
+scanner_manufacturer,A,<not available>,480,1.0
+scanner_manufacturer,B,SIEMENS,24,0.5853658536585366
+scanner_manufacturer,B,GE MEDICAL SYSTEMS,12,0.2926829268292683
+scanner_manufacturer,B,UIH,5,0.12195121951219512
+scanner_manufacturer,C,UIH,52,0.6666666666666666
+scanner_manufacturer,C,SIEMENS,26,0.3333333333333333
+scanner_model,A,<not available>,480,1.0
+scanner_model,B,SOMATOM Definition AS,18,0.43902439024390244
+scanner_model,B,Revolution CT,8,0.1951219512195122
+scanner_model,B,uCT 780,5,0.12195121951219512
+scanner_model,B,Optima CT680 Expert,4,0.0975609756097561
+scanner_model,B,SOMATOM Force,3,0.07317073170731707
+scanner_model,B,SOMATOM Definition Flash,2,0.04878048780487805
+scanner_model,B,Sensation 64,1,0.024390243902439025
+scanner_model,C,uCT 550,52,0.6666666666666666
+scanner_model,C,SOMATOM Force,26,0.3333333333333333
+series_description,A,<not available>,480,1.0
+series_description,B,Head  1.0  H30s,16,0.3902439024390244
+series_description,B,Head Stnd 0.625mm,8,0.1951219512195122
+series_description,B,head1.0,5,0.12195121951219512
+series_description,B,1.25mm stnd,4,0.0975609756097561
+series_description,B,Head  1.0  Hr40  3,3,0.07317073170731707
+series_description,B,Head  1.0  H31s,2,0.04878048780487805
+series_description,B,Head2  1.0  H30s,2,0.04878048780487805
+series_description,B,Head  1.0  H22s,1,0.024390243902439025
+series_description,C,1.0 x 1.0,50,0.6410256410256411
+series_description,C,Head  1.0  Hr40  2,21,0.2692307692307692
+series_description,C,Head  1.5  Hc44  2,3,0.038461538461538464
+series_description,C,Head  1.0  Hc44  2,2,0.02564102564102564
+series_description,C,1.1 x 1.1,2,0.02564102564102564
+protocol_name,A,<not available>,480,1.0
+protocol_name,B,1_HeadRoutine_,11,0.2682926829268293
+protocol_name,B,Head Helical,5,0.12195121951219512
+protocol_name,B,1.2 Head 3D,5,0.12195121951219512
+protocol_name,B,1.3 Head 7.5mm (Helical)  3d,4,0.0975609756097561
+protocol_name,B,1.3 Head+Chest C-,3,0.07317073170731707
+protocol_name,B,08_CTP_CTA_HeadRoutine_FAST3D,3,0.07317073170731707
+protocol_name,B,HCH,3,0.07317073170731707
+protocol_name,B,1_Thorax,3,0.07317073170731707
+protocol_name,B,0_Thora___head,1,0.024390243902439025
+protocol_name,B,0HeadRoutine1,1,0.024390243902439025
+protocol_name,B,1_HeadRoutine,1,0.024390243902439025
+protocol_name,B,1_ThoraxAbdomen,1,0.024390243902439025
+protocol_name,C,Head Helical,50,0.6410256410256411
+protocol_name,C,11_HeadRoutine,26,0.3333333333333333
+protocol_name,C,Head Axial,2,0.02564102564102564
+reconstruction_kernel,A,<not available>,480,1.0
+reconstruction_kernel,B,H30s,18,0.43902439024390244
+reconstruction_kernel,B,SOFT,8,0.1951219512195122
+reconstruction_kernel,B,H_SOFT_B,5,0.12195121951219512
+reconstruction_kernel,B,STANDARD,4,0.0975609756097561
+reconstruction_kernel,B,"['Hr40s', '3']",3,0.07317073170731707
+reconstruction_kernel,B,H31s,2,0.04878048780487805
+reconstruction_kernel,B,H22s,1,0.024390243902439025
+reconstruction_kernel,C,H_SOFT_B,52,0.6666666666666666
+reconstruction_kernel,C,"['Hr40s', '2']",21,0.2692307692307692
+reconstruction_kernel,C,"['Hc44s', '2']",5,0.0641025641025641

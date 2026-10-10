@@ -1,0 +1,73 @@
+label,group,entity,split,metric,value,ci_low,ci_high,bootstrap_replicates
+source_selected_base,base_ehr,XGBoost,A_val,auroc,0.742483660130719,0.6390234308374554,0.8412541212763905,2000
+source_selected_base,base_ehr,XGBoost,A_val,auprc,0.7738701889017898,0.662749132912147,0.8681866240716102,2000
+source_selected_base,base_ehr,XGBoost,A_val,f1,0.6666666666666666,0.5475649350649351,0.7727272727272727,2000
+source_selected_base,base_ehr,XGBoost,A_val,balanced_accuracy,0.6947712418300653,0.5991501035196687,0.7834136155606407,2000
+source_selected_base,base_ehr,XGBoost,A_val,sensitivity,0.6444444444444445,0.5102040816326531,0.782608695652174,2000
+source_selected_base,base_ehr,XGBoost,A_val,specificity,0.7450980392156863,0.6153846153846154,0.8636363636363636,2000
+source_selected_base,base_ehr,XGBoost,A_val,brier,0.20390660149267648,0.1609193343527442,0.2490753921618913,2000
+source_selected_base,base_ehr,XGBoost,A_val,ece,0.09838374456041667,0.07451109365156251,0.20164345059687502,2000
+source_selected_base,base_ehr,XGBoost,B_test,auroc,0.8818181818181818,0.7516027738818762,0.9725274725274725,2000
+source_selected_base,base_ehr,XGBoost,B_test,auprc,0.7457792207792208,0.4769869686413804,0.9477209065444359,2000
+source_selected_base,base_ehr,XGBoost,B_test,f1,0.625,0.4,0.7918749999999988,2000
+source_selected_base,base_ehr,XGBoost,B_test,balanced_accuracy,0.7712121212121212,0.6345905172413793,0.8793103448275862,2000
+source_selected_base,base_ehr,XGBoost,B_test,sensitivity,0.9090909090909091,0.7,1.0,2000
+source_selected_base,base_ehr,XGBoost,B_test,specificity,0.6333333333333333,0.45454545454545453,0.8,2000
+source_selected_base,base_ehr,XGBoost,B_test,brier,0.16387064752595729,0.12649549941733856,0.2049117937858605,2000
+source_selected_base,base_ehr,XGBoost,B_test,ece,0.23680008321951215,0.16203609660243906,0.3322778648097562,2000
+source_selected_base,base_ehr,XGBoost,C_test,auroc,0.5085526315789474,0.3783112992671816,0.6423770340236685,2000
+source_selected_base,base_ehr,XGBoost,C_test,auprc,0.49795214450690994,0.3666471587660727,0.6781548199138387,2000
+source_selected_base,base_ehr,XGBoost,C_test,f1,0.48,0.33321917808219176,0.611764705882353,2000
+source_selected_base,base_ehr,XGBoost,C_test,balanced_accuracy,0.4993421052631579,0.3835521338753287,0.6138322368421052,2000
+source_selected_base,base_ehr,XGBoost,C_test,sensitivity,0.47368421052631576,0.3170410783055199,0.6363636363636364,2000
+source_selected_base,base_ehr,XGBoost,C_test,specificity,0.525,0.36363636363636365,0.6857142857142857,2000
+source_selected_base,base_ehr,XGBoost,C_test,brier,0.2910084588199082,0.24145127743421438,0.33891154269117096,2000
+source_selected_base,base_ehr,XGBoost,C_test,ece,0.22429302496410256,0.1473021775862821,0.3381344162746795,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,A_val,auroc,0.85359477124183,0.7718297498903028,0.9222893642053698,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,A_val,auprc,0.8596989710027112,0.769592895363645,0.9291373309209858,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,A_val,f1,0.7835051546391752,0.6808510638297872,0.8627673796791443,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,A_val,balanced_accuracy,0.7849673202614379,0.7004347826086956,0.8613495079352312,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,A_val,sensitivity,0.8444444444444444,0.7272727272727273,0.9459459459459459,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,A_val,specificity,0.7254901960784313,0.5961538461538461,0.8393035714285714,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,A_val,brier,0.19053690642673904,0.17188744156721997,0.2105592749828817,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,A_val,ece,0.16365995901814384,0.11570494856118504,0.24753409991272193,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,auroc,0.806060606060606,0.6454941116231439,0.9423106060606061,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,auprc,0.6869662534435262,0.41667553115743905,0.8923922716121704,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,f1,0.47619047619047616,0.2702702702702703,0.6530612244897959,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,balanced_accuracy,0.6045454545454545,0.47841014588859415,0.7115384615384616,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,sensitivity,0.9090909090909091,0.7142857142857143,1.0,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,specificity,0.3,0.14814814814814814,0.46875,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,brier,0.21769845171624833,0.19811743387095782,0.23777905967499927,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,ece,0.2572010628179915,0.15799260285021877,0.3669252762487286,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,auroc,0.44605263157894737,0.3169343357287303,0.5782105790880946,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,auprc,0.43984595384993874,0.33540034894683063,0.595015268621829,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,f1,0.6422018348623854,0.5318823273990447,0.7413793103448276,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,balanced_accuracy,0.5105263157894737,0.4505006262547302,0.5737524920255183,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,sensitivity,0.9210526315789473,0.825,1.0,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,specificity,0.1,0.024390243902439025,0.1951219512195122,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,brier,0.26496406716460985,0.24745882387430748,0.2827693844208694,2000
+source_selected_probability_fusion,probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,ece,0.12659525212692374,0.057279081224536905,0.23697808451185315,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,A_val,auroc,0.770806100217865,0.6769356829129125,0.8590224650880387,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,A_val,auprc,0.7648024804705544,0.6456292560407443,0.8680909583453705,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,A_val,f1,0.6788990825688074,0.5714285714285714,0.7704918032786885,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,A_val,balanced_accuracy,0.6464052287581699,0.5569546668806283,0.7377747035573121,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,A_val,sensitivity,0.8222222222222222,0.7045454545454546,0.9285714285714286,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,A_val,specificity,0.47058823529411764,0.3333333333333333,0.6071603641456581,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,A_val,brier,0.19503002536516748,0.16735106073924902,0.2218176854195248,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,A_val,ece,0.07230094192083338,0.07191732401937502,0.1817263649322395,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,B_test,auroc,0.5636363636363637,0.38091133004926114,0.7472601540616246,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,B_test,auprc,0.3055565968851973,0.17226650127918247,0.5573893567688315,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,B_test,f1,0.4782608695652174,0.2857142857142857,0.64,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,B_test,balanced_accuracy,0.6,0.532258064516129,0.6774193548387097,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,B_test,sensitivity,1.0,1.0,1.0,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,B_test,specificity,0.2,0.06451612903225806,0.3548387096774194,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,B_test,brier,0.25293406891656905,0.21568482361133595,0.29224413756175577,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,B_test,ece,0.22264219858536588,0.13733921677682923,0.36234238419756093,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,C_test,auroc,0.5072368421052631,0.37829034391534394,0.6386104323308268,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,C_test,auprc,0.4963553658136472,0.36321149469835856,0.664910350900897,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,C_test,f1,0.6407766990291263,0.5242332303618711,0.7387576652282534,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,C_test,balanced_accuracy,0.5342105263157895,0.45073381233371085,0.6149732620320856,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,C_test,sensitivity,0.868421052631579,0.7555555555555555,0.9705882352941176,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,C_test,specificity,0.2,0.08333333333333333,0.3333333333333333,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,C_test,brier,0.2839824796195833,0.24148543657774765,0.3274171161900359,2000
+source_selected_representation_fusion,representation,cross_modal_transformer,C_test,ece,0.18525752907692306,0.12008836125448712,0.3045277227564102,2000

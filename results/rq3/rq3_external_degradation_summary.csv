@@ -1,0 +1,961 @@
+group,entity,target,metric,mean_degradation,sd_degradation,n_seeds
+base_ct,DenseNet121,B_test,auprc,0.3601336747891005,0.0708722973367808,5
+base_ct,DenseNet121,B_test,auroc,0.18352941176470589,0.01588884972167722,5
+base_ct,DenseNet121,B_test,balanced_accuracy,0.1720974450386215,0.03004929273448661,5
+base_ct,DenseNet121,B_test,brier,0.04434506719662099,0.053756781343969454,5
+base_ct,DenseNet121,B_test,ece,0.12202197920181405,0.08160621722856805,5
+base_ct,DenseNet121,B_test,f1,0.2777022649076487,0.02019687455008632,5
+base_ct,DenseNet121,B_test,sensitivity,-0.1507070707070707,0.05768375481745107,5
+base_ct,DenseNet121,B_test,specificity,0.49490196078431375,0.09940809058453932,5
+base_ct,DenseNet121,C_test,auprc,0.31316046636681744,0.052475493615049364,5
+base_ct,DenseNet121,C_test,auroc,0.3626960784313725,0.05377565486565999,5
+base_ct,DenseNet121,C_test,balanced_accuracy,0.18160302717578258,0.05876232314026626,5
+base_ct,DenseNet121,C_test,brier,0.08062049331255612,0.040289821185538706,5
+base_ct,DenseNet121,C_test,ece,0.07341765583783652,0.06932391043047786,5
+base_ct,DenseNet121,C_test,f1,0.05094008223501798,0.039744404488514684,5
+base_ct,DenseNet121,C_test,sensitivity,-0.1583625730994152,0.05652796258202336,5
+base_ct,DenseNet121,C_test,specificity,0.5215686274509804,0.13413828530578092,5
+base_ct,ResNet18,B_test,auprc,0.34136749744460404,0.0685864792874576,5
+base_ct,ResNet18,B_test,auroc,0.1594890077243018,0.07393709287072513,5
+base_ct,ResNet18,B_test,balanced_accuracy,0.15231134878193706,0.047271324707265305,5
+base_ct,ResNet18,B_test,brier,0.07968695629903147,0.10020089748081078,5
+base_ct,ResNet18,B_test,ece,0.22306345744715447,0.15110245547581777,5
+base_ct,ResNet18,B_test,f1,0.281464153850397,0.02871218764923055,5
+base_ct,ResNet18,B_test,sensitivity,-0.029494949494949484,0.08362025902626974,5
+base_ct,ResNet18,B_test,specificity,0.3341176470588235,0.07849997000173294,5
+base_ct,ResNet18,C_test,auprc,0.1894073288609206,0.0598978310409122,5
+base_ct,ResNet18,C_test,auroc,0.21499140006879944,0.08053004973602812,5
+base_ct,ResNet18,C_test,balanced_accuracy,0.12941262469900244,0.028943485352992213,5
+base_ct,ResNet18,C_test,brier,0.058848984280973335,0.039799189019319656,5
+base_ct,ResNet18,C_test,ece,0.06532681674358973,0.12364294297266509,5
+base_ct,ResNet18,C_test,f1,0.03105505364750072,0.019215674051506124,5
+base_ct,ResNet18,C_test,sensitivity,-0.09695906432748538,0.032655465067724446,5
+base_ct,ResNet18,C_test,specificity,0.3557843137254902,0.07084681668264158,5
+base_ct,SimpleCNN,B_test,auprc,0.2589268431350087,0.06336335861815044,5
+base_ct,SimpleCNN,B_test,auroc,0.03134878193701719,0.05176936516725438,5
+base_ct,SimpleCNN,B_test,balanced_accuracy,-0.0013725490196078605,0.0030691129102938678,5
+base_ct,SimpleCNN,B_test,brier,-0.0019720848852532447,0.0011674450922154857,5
+base_ct,SimpleCNN,B_test,ece,0.19159532675863827,0.012801195878105038,5
+base_ct,SimpleCNN,B_test,f1,0.21447367817830898,0.001670948944112685,5
+base_ct,SimpleCNN,B_test,sensitivity,0.0,0.0,5
+base_ct,SimpleCNN,B_test,specificity,-0.0027450980392156863,0.0061382258205876575,5
+base_ct,SimpleCNN,C_test,auprc,0.13323049835811554,0.07198576109382457,5
+base_ct,SimpleCNN,C_test,auroc,0.1689624183006536,0.08761409720864288,5
+base_ct,SimpleCNN,C_test,balanced_accuracy,0.0019607843137254832,0.004384447014705454,5
+base_ct,SimpleCNN,C_test,brier,0.0013066040314700545,0.001900504700195776,5
+base_ct,SimpleCNN,C_test,ece,-0.01411376047275634,0.022402314407959353,5
+base_ct,SimpleCNN,C_test,f1,-0.01596268734933439,0.0020389677606381124,5
+base_ct,SimpleCNN,C_test,sensitivity,0.0,0.0,5
+base_ct,SimpleCNN,C_test,specificity,0.00392156862745098,0.00876889402941094,5
+base_ct,SwinTransformer,B_test,auprc,0.16429273796249638,0.08973869046345964,5
+base_ct,SwinTransformer,B_test,auroc,-0.046001188354129544,0.0603225738448581,5
+base_ct,SwinTransformer,B_test,balanced_accuracy,0.030148544266191336,0.05903733867032643,5
+base_ct,SwinTransformer,B_test,brier,-0.009290377436883202,0.024642220696253023,5
+base_ct,SwinTransformer,B_test,ece,0.12218261599593491,0.07173819738906718,5
+base_ct,SwinTransformer,B_test,f1,0.2210053646616068,0.03857949976418178,5
+base_ct,SwinTransformer,B_test,sensitivity,-0.01656565656565656,0.11440837646093975,5
+base_ct,SwinTransformer,B_test,specificity,0.07686274509803923,0.10884030960541193,5
+base_ct,SwinTransformer,C_test,auprc,0.1072155484538535,0.045478698917228014,5
+base_ct,SwinTransformer,C_test,auroc,0.14669418644650842,0.06834038668261559,5
+base_ct,SwinTransformer,C_test,balanced_accuracy,0.03603371173030619,0.04990535898345912,5
+base_ct,SwinTransformer,C_test,brier,0.009763561303690965,0.01055689102535709,5
+base_ct,SwinTransformer,C_test,ece,0.009747080858974333,0.02116156920619028,5
+base_ct,SwinTransformer,C_test,f1,-0.007563970219741667,0.015475887727069058,5
+base_ct,SwinTransformer,C_test,sensitivity,-0.044795321637426874,0.06624417268065559,5
+base_ct,SwinTransformer,C_test,specificity,0.11686274509803922,0.16033631093063438,5
+base_ehr,LogisticRegression,B_test,auprc,0.10872080052598687,0.0,5
+base_ehr,LogisticRegression,B_test,auroc,-0.14383046147752032,0.0,5
+base_ehr,LogisticRegression,B_test,balanced_accuracy,0.06137849079025548,0.0,5
+base_ehr,LogisticRegression,B_test,brier,-0.007443272587887517,0.0,5
+base_ehr,LogisticRegression,B_test,ece,0.1998212882428741,0.0,5
+base_ehr,LogisticRegression,B_test,f1,0.43658088235294124,0.0,5
+base_ehr,LogisticRegression,B_test,sensitivity,0.7737373737373738,0.0,5
+base_ehr,LogisticRegression,B_test,specificity,-0.6509803921568628,0.0,5
+base_ehr,LogisticRegression,C_test,auprc,0.11848713750006024,0.0,5
+base_ehr,LogisticRegression,C_test,auroc,0.08695103772503154,0.0,5
+base_ehr,LogisticRegression,C_test,balanced_accuracy,0.05009459924320614,0.0,5
+base_ehr,LogisticRegression,C_test,brier,0.04293432005057676,0.0,5
+base_ehr,LogisticRegression,C_test,ece,0.0979003299031587,0.0,5
+base_ehr,LogisticRegression,C_test,f1,0.017669392523364524,0.0,5
+base_ehr,LogisticRegression,C_test,sensitivity,0.03450292397660826,0.0,5
+base_ehr,LogisticRegression,C_test,specificity,0.06568627450980394,0.0,5
+base_ehr,MLP,B_test,auprc,0.15159999728749446,0.13253173000849008,5
+base_ehr,MLP,B_test,auroc,0.0013032283620518447,0.15142138517917925,5
+base_ehr,MLP,B_test,balanced_accuracy,0.06950683303624479,0.11309693871352129,5
+base_ehr,MLP,B_test,brier,0.14029390765217378,0.21944005458567784,5
+base_ehr,MLP,B_test,ece,0.30479697877899603,0.27983168969246125,5
+base_ehr,MLP,B_test,f1,0.37504653014131184,0.19927432229859668,5
+base_ehr,MLP,B_test,sensitivity,0.4064646464646464,0.45916485497529663,5
+base_ehr,MLP,B_test,specificity,-0.26745098039215687,0.5167598606280528,5
+base_ehr,MLP,C_test,auprc,0.04935063816393008,0.04640106116561791,5
+base_ehr,MLP,C_test,auroc,0.04977611512441231,0.05256853675534137,5
+base_ehr,MLP,C_test,balanced_accuracy,0.05330667354661164,0.06735401591771863,5
+base_ehr,MLP,C_test,brier,0.01839634348858895,0.01494983297884121,5
+base_ehr,MLP,C_test,ece,0.0493887791689265,0.03422219393601662,5
+base_ehr,MLP,C_test,f1,0.027729991616218273,0.053091634975308645,5
+base_ehr,MLP,C_test,sensitivity,0.05239766081871344,0.053840247694546574,5
+base_ehr,MLP,C_test,specificity,0.05421568627450981,0.08538112533142463,5
+base_ehr,RandomForest,B_test,auprc,0.03542849270223962,0.011263222078370268,5
+base_ehr,RandomForest,B_test,auroc,-0.14526836997425238,0.0066142017095737644,5
+base_ehr,RandomForest,B_test,balanced_accuracy,0.025811051693404675,0.0780140412104322,5
+base_ehr,RandomForest,B_test,brier,-0.01805063825941387,0.004532400795135278,5
+base_ehr,RandomForest,B_test,ece,0.10987262828179405,0.044927450447950344,5
+base_ehr,RandomForest,B_test,f1,0.11834503534722995,0.1313246788541284,5
+base_ehr,RandomForest,B_test,sensitivity,0.04848484848484848,0.14907119849998596,5
+base_ehr,RandomForest,B_test,specificity,0.003137254901960801,0.12258901308197301,5
+base_ehr,RandomForest,C_test,auprc,0.24044258371911678,0.016549176944979857,5
+base_ehr,RandomForest,C_test,auroc,0.2178376906318083,0.007537081026013652,5
+base_ehr,RandomForest,C_test,balanced_accuracy,0.1945949432404541,0.048237268908182335,5
+base_ehr,RandomForest,C_test,brier,0.054857214528925315,0.002587011198891679,5
+base_ehr,RandomForest,C_test,ece,-0.00690675577494892,0.01667482647468366,5
+base_ehr,RandomForest,C_test,f1,0.387694815542649,0.18082439780625692,5
+base_ehr,RandomForest,C_test,sensitivity,0.387719298245614,0.1661348856990295,5
+base_ehr,RandomForest,C_test,specificity,0.001470588235294118,0.07105560823570145,5
+base_ehr,XGBoost,B_test,auprc,0.029796217198670184,0.04320059456845749,5
+base_ehr,XGBoost,B_test,auroc,-0.13629233511586453,0.02147224983055731,5
+base_ehr,XGBoost,B_test,balanced_accuracy,-0.0402139037433155,0.0659041194937218,5
+base_ehr,XGBoost,B_test,brier,-0.0394214922959488,0.0023691676819997806,5
+base_ehr,XGBoost,B_test,ece,0.11532145306458333,0.01763884909974859,5
+base_ehr,XGBoost,B_test,f1,0.0689582932242204,0.11462271121241793,5
+base_ehr,XGBoost,B_test,sensitivity,-0.1478787878787879,0.05974813647524125,5
+base_ehr,XGBoost,B_test,specificity,0.06745098039215684,0.12848449731978814,5
+base_ehr,XGBoost,C_test,auprc,0.26906459918377046,0.01270256797478221,5
+base_ehr,XGBoost,C_test,auroc,0.2303663570691435,0.015291404898842627,5
+base_ehr,XGBoost,C_test,balanced_accuracy,0.1999974200206399,0.05796104307146113,5
+base_ehr,XGBoost,C_test,brier,0.08735049296824357,0.0033082804613885496,5
+base_ehr,XGBoost,C_test,ece,0.11498098260304486,0.03496138772457861,5
+base_ehr,XGBoost,C_test,f1,0.26420336267013583,0.1274956700630383,5
+base_ehr,XGBoost,C_test,sensitivity,0.2908771929824562,0.1274267529768958,5
+base_ehr,XGBoost,C_test,specificity,0.10911764705882354,0.0790239562370917,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,auprc,0.321353282022924,0.06931058754461651,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,auroc,0.13762725292137057,0.03865114169118618,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,balanced_accuracy,0.14191325014854422,0.056956518416358085,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,brier,-0.018170819568375733,0.006992421297404685,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,ece,-0.010790004660584584,0.024920793656459935,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,f1,0.37539082430976733,0.08177046126963657,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,sensitivity,0.4901010101010101,0.1433816947050501,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,specificity,-0.2062745098039216,0.16690525022558242,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,auprc,0.2753781251196924,0.056522937958478306,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,auroc,0.26411449375071666,0.0312755561942794,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,balanced_accuracy,0.19942122463020295,0.015817723321484917,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,brier,0.061959801111933686,0.013586194739451609,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,ece,0.00876660048194453,0.05879615377032855,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,f1,0.0759243244076105,0.016007885511694128,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,sensitivity,-0.10654970760233917,0.07776502555618284,5
+probability_equal_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,specificity,0.5053921568627451,0.08417181970590185,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,B_test,auprc,0.38794152675567406,0.11234557998737878,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,B_test,auroc,0.21685086155674388,0.07478692971993456,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,B_test,balanced_accuracy,0.18174688057041,0.06882442544218147,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,B_test,brier,0.053325403979726314,0.08792937523115901,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,B_test,ece,0.10649506096481938,0.16554182004380116,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,B_test,f1,0.3736879698115806,0.09930463939411553,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,B_test,sensitivity,0.2254545454545455,0.4303400183277748,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,B_test,specificity,0.13803921568627447,0.5420648434478246,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,C_test,auprc,0.2788900789637402,0.04166046983741924,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,C_test,auroc,0.2851642586859305,0.04198698939560983,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,C_test,balanced_accuracy,0.21020381836945307,0.07377931036120784,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,C_test,brier,0.05014737234808246,0.020824274582770405,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,C_test,ece,-0.025375041032231194,0.04217551117538379,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,C_test,f1,0.08716974648105136,0.03878079460267625,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,C_test,sensitivity,-0.07263157894736838,0.08649081290008653,5
+probability_equal_average,CT:DenseNet121 + EHR:MLP,C_test,specificity,0.49303921568627446,0.22032020753557716,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,auprc,0.20801039451339812,0.13971559279886403,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,auroc,0.0560308972073678,0.07954166325529892,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,balanced_accuracy,0.14662507427213314,0.0857860064703749,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,brier,0.025754513493798536,0.02071543201417516,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,ece,0.05549521895031737,0.039360650718914744,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,f1,0.27745066884754516,0.06843680985281568,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,sensitivity,-0.08282828282828283,0.0631616088923777,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,B_test,specificity,0.37607843137254904,0.14505431243615094,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,auprc,0.38340558615889575,0.046932852963620354,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,auroc,0.38880202958376336,0.030506481428527868,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,balanced_accuracy,0.27811231510147916,0.0298868219573746,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,brier,0.07288078182285171,0.012203596632592191,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,ece,-0.06091896111562932,0.052150523622297267,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,f1,0.16221608781999866,0.024159943570056436,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,sensitivity,-0.008187134502923965,0.09079877248949449,5
+probability_equal_average,CT:DenseNet121 + EHR:RandomForest,C_test,specificity,0.5644117647058824,0.1367377336534817,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,B_test,auprc,0.1342684198583357,0.05815220147816074,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,B_test,auroc,-0.009958407605466468,0.04340554036519449,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,B_test,balanced_accuracy,0.1319073083778966,0.08129386766479932,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,B_test,brier,0.015526499433069784,0.019686905139015082,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,B_test,ece,0.11185182856251781,0.06053230658938979,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,B_test,f1,0.26723639296528506,0.06445394907767078,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,B_test,sensitivity,-0.1103030303030303,0.05526277304186891,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,B_test,specificity,0.37411764705882355,0.1303176847628046,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,C_test,auprc,0.3590665102567546,0.04669010164472114,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,C_test,auroc,0.3677210182318541,0.026300083151503048,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,C_test,balanced_accuracy,0.2833307533539732,0.027924069076496656,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,C_test,brier,0.08849467698359363,0.01114310704879267,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,C_test,ece,0.020609936928934293,0.030263824927478956,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,C_test,f1,0.17207204388500372,0.029750179436278477,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,C_test,sensitivity,0.03754385964912281,0.08823086696987399,5
+probability_equal_average,CT:DenseNet121 + EHR:XGBoost,C_test,specificity,0.5291176470588235,0.1116327265124542,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,B_test,auprc,0.2740041693720026,0.048265469144268096,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,B_test,auroc,0.09123786888492764,0.06460965426616105,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,B_test,balanced_accuracy,0.1323767082590612,0.04118080236560638,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,B_test,brier,-0.01955813428434669,0.014247386432531347,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,B_test,ece,0.03066334306632097,0.051617054675492234,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,B_test,f1,0.4180696176052213,0.10301674586737956,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,B_test,sensitivity,0.574949494949495,0.26309437690312787,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,B_test,specificity,-0.31019607843137254,0.185863323258566,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,C_test,auprc,0.19303770266932258,0.03534929163823119,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,C_test,auroc,0.17269321178763902,0.030322201143570586,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,C_test,balanced_accuracy,0.14465342277261786,0.033543175557272,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,C_test,brier,0.04510291596777867,0.011698665253950769,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,C_test,ece,0.03768717338337778,0.042612921623711664,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,C_test,f1,0.06150197603608691,0.012875084507362538,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,C_test,sensitivity,-0.018830409356725152,0.04678252922691624,5
+probability_equal_average,CT:ResNet18 + EHR:LogisticRegression,C_test,specificity,0.3081372549019608,0.10593998068662076,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,B_test,auprc,0.34549088231308184,0.09841085666338663,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,B_test,auroc,0.20219449395919983,0.09299922298911467,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,B_test,balanced_accuracy,0.17433155080213908,0.09544172438653217,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,B_test,brier,0.06431135665455234,0.1140772597046687,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,B_test,ece,0.14757182048464335,0.16218953390250815,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,B_test,f1,0.3893366035767714,0.12729119643686598,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,B_test,sensitivity,0.3078787878787879,0.5297777099857593,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,B_test,specificity,0.040784313725490184,0.6225334257735127,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,C_test,auprc,0.16373512255732442,0.05681059760260143,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,C_test,auroc,0.15768891182203876,0.05043502152783183,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,C_test,balanced_accuracy,0.17372549019607847,0.06576956215351647,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,C_test,brier,0.03258708872094919,0.015609486421995602,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,C_test,ece,0.003019763181605621,0.05280467387662163,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,C_test,f1,0.07174292062111891,0.04823317124786173,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,C_test,sensitivity,-0.046666666666666655,0.07707704389282624,5
+probability_equal_average,CT:ResNet18 + EHR:MLP,C_test,specificity,0.3941176470588236,0.13569624453340282,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,B_test,auprc,0.1111688404876691,0.08064852240490783,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,B_test,auroc,-0.044983164983164944,0.058492865774204775,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,B_test,balanced_accuracy,0.19170528817587634,0.04270305548311677,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,B_test,brier,0.0329733629228999,0.038768420602694344,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,B_test,ece,0.15581835561319507,0.030152617341526782,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,B_test,f1,0.3059977299717668,0.023355160099249785,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,B_test,sensitivity,-0.09737373737373738,0.08594054317686463,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,B_test,specificity,0.4807843137254902,0.145708836296944,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,C_test,auprc,0.28702135982682153,0.03662153536650556,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,C_test,auroc,0.2806189083820663,0.03778973745781817,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,C_test,balanced_accuracy,0.20485122119023041,0.045700980459236276,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,C_test,brier,0.05466648068440718,0.006264896329763062,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,C_test,ece,-0.04904643438824964,0.027871201619732437,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,C_test,f1,0.10010701387145778,0.01023868532807789,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,C_test,sensitivity,-0.02608187134502926,0.10917409774709053,5
+probability_equal_average,CT:ResNet18 + EHR:RandomForest,C_test,specificity,0.43578431372549015,0.19704998273017904,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,B_test,auprc,0.048007203193429104,0.04963849590958944,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,B_test,auroc,-0.06973262032085563,0.029871560128148077,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,B_test,balanced_accuracy,0.15045751633986928,0.04692166376686366,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,B_test,brier,0.02249923302405347,0.038266812010986674,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,B_test,ece,0.17112955932238313,0.06261802574727007,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,B_test,f1,0.2832296603185653,0.017983917277339383,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,B_test,sensitivity,-0.0888888888888889,0.0831479419283098,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,B_test,specificity,0.3898039215686274,0.16737680315081693,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,C_test,auprc,0.29739935650314975,0.018965906309033772,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,C_test,auroc,0.2892466460268318,0.02568333424971937,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,C_test,balanced_accuracy,0.20585225318197456,0.03516099053812034,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,C_test,brier,0.07141232527944395,0.005035040585085502,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,C_test,ece,-0.0017039894162660025,0.03494348318010593,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,C_test,f1,0.10837059904324856,0.0197063207004357,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,C_test,sensitivity,0.026900584795321647,0.12025829161104527,5
+probability_equal_average,CT:ResNet18 + EHR:XGBoost,C_test,specificity,0.3848039215686274,0.17098535307158172,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,auprc,0.11775240846770511,0.01994294330006528,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,auroc,-0.13090909090909092,0.02486511160233779,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,balanced_accuracy,0.07863339275103978,0.024269409328260053,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,brier,-0.04243720229309898,0.00032642039118245314,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,ece,0.0418155381210625,0.01459938891853282,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,f1,0.43796955723737874,0.0026545149738753265,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,sensitivity,0.7337373737373738,0.05962847939999447,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,specificity,-0.5764705882352941,0.10775397383556146,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,auprc,0.12473188985178581,0.01398569007980257,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,auroc,0.09254385964912282,0.012383196316583083,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,balanced_accuracy,0.04800739594083252,0.006446686481679957,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,brier,0.020455326213530616,0.0012203018078045867,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,ece,0.021070703335278478,0.007050049126413648,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,f1,0.015448214178525044,0.003095854700799517,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,sensitivity,0.020818713450292424,0.02355063044849102,5
+probability_equal_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,specificity,0.07519607843137258,0.028920737774705788,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,B_test,auprc,0.1478613112579902,0.13783655282465376,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,B_test,auroc,0.0008001584472172252,0.16245000384896705,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,B_test,balanced_accuracy,0.09142602495543672,0.08737010475703844,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,B_test,brier,0.03580346386472827,0.10257345795286316,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,B_test,ece,0.1866970472778086,0.1999951449971103,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,B_test,f1,0.37297461298742746,0.20432227942105063,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,B_test,sensitivity,0.28363636363636363,0.4720028118804146,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,B_test,specificity,-0.1007843137254902,0.41811076163684163,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,C_test,auprc,0.05120039081378114,0.047984103540331224,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,C_test,auroc,0.054013874555670194,0.054841429855584406,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,C_test,balanced_accuracy,0.0501341589267286,0.07010397689701517,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,C_test,brier,0.008944889575104208,0.008487142849722054,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,C_test,ece,0.03083529271482991,0.02288662241852805,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,C_test,f1,0.023198356601781732,0.05440974389254831,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,C_test,sensitivity,0.04105263157894736,0.05312536398706924,5
+probability_equal_average,CT:SimpleCNN + EHR:MLP,C_test,specificity,0.05921568627450981,0.0955463709229178,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,B_test,auprc,0.03469910729490289,0.01049008601644929,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,B_test,auroc,-0.1471657754010695,0.003696775749806048,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,B_test,balanced_accuracy,0.007605466428995867,0.07541291467163201,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,B_test,brier,-0.0036707108053947502,0.0029238232896393874,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,B_test,ece,0.16643487847594063,0.021729489301338833,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,B_test,f1,0.11619733524796816,0.11752795551469328,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,B_test,sensitivity,-0.016161616161616175,0.15268905512960582,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,B_test,specificity,0.031372549019607836,0.1224823347979719,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,C_test,auprc,0.2458742639502814,0.020254425678644227,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,C_test,auroc,0.2189705882352942,0.008004262388231624,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,C_test,balanced_accuracy,0.17470674234606126,0.05838032854875594,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,C_test,brier,0.03307845008426777,0.0017977798337281753,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,C_test,ece,-0.060196294952973815,0.016580707363378758,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,C_test,f1,0.3097030508915558,0.2145719423267658,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,C_test,sensitivity,0.316374269005848,0.19661432721555994,5
+probability_equal_average,CT:SimpleCNN + EHR:RandomForest,C_test,specificity,0.0330392156862745,0.08125774443321039,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,B_test,auprc,0.02954450530529429,0.04530477874658416,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,B_test,auroc,-0.13498514557338087,0.020012889492752515,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,B_test,balanced_accuracy,-0.04486036838978016,0.07697891799586154,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,B_test,brier,-0.012546259578735758,0.00182364506670321,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,B_test,ece,0.14194389286786074,0.015333949215646781,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,B_test,f1,0.07050574215170319,0.10996150859532339,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,B_test,sensitivity,-0.17050505050505052,0.05939187792753143,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,B_test,specificity,0.08078431372549018,0.10451550585924302,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,C_test,auprc,0.27129245883762837,0.01199623491751,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,C_test,auroc,0.23312091503267976,0.015963650471616842,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,C_test,balanced_accuracy,0.20040677674578608,0.06507774159231973,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,C_test,brier,0.05126762977287277,0.0021702470684005232,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,C_test,ece,0.02591818061113784,0.030191205888098004,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,C_test,f1,0.26414783349116294,0.12942523535293174,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,C_test,sensitivity,0.29169590643274856,0.12607351684935403,5
+probability_equal_average,CT:SimpleCNN + EHR:XGBoost,C_test,specificity,0.10911764705882354,0.07911816337271088,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,auprc,0.15933772517892883,0.0571120025479937,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,auroc,-0.08718558130322837,0.054032867871835526,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,balanced_accuracy,0.07634581105169339,0.03253431696703912,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,brier,-0.04110310289039072,0.0017584511429107616,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,ece,0.056203496054679156,0.057398654550686136,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,f1,0.43988294635374847,0.0072203301288810496,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,sensitivity,0.7515151515151516,0.05211573066470477,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,specificity,-0.5988235294117648,0.11637878470829938,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,auprc,0.1426600483140097,0.026888703402126034,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,auroc,0.1162274968466919,0.027336751403432877,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,balanced_accuracy,0.073921568627451,0.023264428593781413,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,brier,0.02634051261893782,0.006075824648047171,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,ece,0.03564368786984141,0.03465003816978523,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,f1,0.031343188592664474,0.012846764202501384,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,sensitivity,0.03333333333333337,0.015929635639621315,5
+probability_equal_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,specificity,0.11450980392156865,0.054367142982347814,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,B_test,auprc,0.19571415182017746,0.11269919453449645,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,B_test,auroc,0.01603485838779952,0.15761188663373246,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,B_test,balanced_accuracy,0.10096256684491978,0.11360114755742873,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,B_test,brier,0.042470697348471545,0.11664048119362787,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,B_test,ece,0.16518967130352555,0.21841107643404775,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,B_test,f1,0.4331388128709667,0.1939525613704966,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,B_test,sensitivity,0.46545454545454545,0.5065927966384427,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,B_test,specificity,-0.2635294117647059,0.5403136771038776,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,C_test,auprc,0.09448784317118879,0.044020463188407605,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,C_test,auroc,0.09515766540534341,0.05696437552362733,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,C_test,balanced_accuracy,0.0747265221878225,0.08461844633391338,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,C_test,brier,0.014885348881436593,0.010185694243999156,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,C_test,ece,0.017241150473464407,0.050087632356249245,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,C_test,f1,0.035031677422875496,0.05316092965298849,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,C_test,sensitivity,0.0463157894736842,0.0342452465387881,5
+probability_equal_average,CT:SwinTransformer + EHR:MLP,C_test,specificity,0.10313725490196077,0.14546712134019654,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,B_test,auprc,0.058725956176601056,0.05608035868053038,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,B_test,auroc,-0.13733016438898787,0.03307568285842484,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,B_test,balanced_accuracy,0.032774806892453955,0.07390832287049554,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,B_test,brier,-0.005917925649825656,0.009925083088967763,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,B_test,ece,0.12408748971418426,0.05188023022663488,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,B_test,f1,0.1742786288520381,0.09218756231976014,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,B_test,sensitivity,-0.07797979797979797,0.09193140112055605,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,B_test,specificity,0.14352941176470585,0.1428374512709551,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,C_test,auprc,0.24269287349415966,0.02943088431777469,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,C_test,auroc,0.23777749111340446,0.0283966955309335,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,C_test,balanced_accuracy,0.1486799105607155,0.05176907962598709,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,C_test,brier,0.03936445100726084,0.008897063698021563,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,C_test,ece,-0.055726014722629794,0.053779144289419135,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,C_test,f1,0.15769367638968607,0.18390209271506433,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,C_test,sensitivity,0.1521637426900585,0.18612364037703216,5
+probability_equal_average,CT:SwinTransformer + EHR:RandomForest,C_test,specificity,0.14519607843137253,0.10012331401056543,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,B_test,auprc,0.03680162948148846,0.03610837731504735,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,B_test,auroc,-0.13658150128738367,0.008920717728922256,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,B_test,balanced_accuracy,-0.05592988710635769,0.07551250832720975,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,B_test,brier,-0.015548293568280686,0.01079843783082323,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,B_test,ece,0.1632642246179116,0.04076619423295776,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,B_test,f1,0.07475222582817789,0.12388758062564956,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,B_test,sensitivity,-0.1898989898989899,0.0829390734768175,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,B_test,specificity,0.0780392156862745,0.09549039739077708,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,C_test,auprc,0.27068463694553346,0.019700003348660133,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,C_test,auroc,0.24995757367274396,0.02841660571211591,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,C_test,balanced_accuracy,0.19056931544547645,0.07947374155222106,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,C_test,brier,0.05728877316676404,0.009296429703834937,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,C_test,ece,0.02985156416450322,0.048448419535906236,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,C_test,f1,0.21923549103534587,0.14443688486870435,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,C_test,sensitivity,0.23976608187134502,0.14414581911271493,5
+probability_equal_average,CT:SwinTransformer + EHR:XGBoost,C_test,specificity,0.14137254901960783,0.09183336525599327,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,B_test,auprc,0.3236602204951492,0.07415756706320606,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,B_test,auroc,0.14449593979005734,0.04000508521185502,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,B_test,balanced_accuracy,0.14340463458110517,0.07420007496769658,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,B_test,brier,-0.021120192044641144,0.00864970130517468,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,B_test,ece,-0.02411035201176696,0.05026566090357211,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,B_test,f1,0.3382201477991792,0.08211893409935062,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,B_test,sensitivity,0.41818181818181815,0.1042020907014852,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,B_test,specificity,-0.13137254901960785,0.21236751529659326,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,C_test,auprc,0.2835369952466963,0.055180720554881574,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,C_test,auroc,0.27658525398463474,0.03073993708504607,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,C_test,balanced_accuracy,0.22383126934984515,0.018918968202768584,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,C_test,brier,0.060267487649162496,0.01370370672062821,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,C_test,ece,-0.0009050913794466153,0.05309924575219357,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,C_test,f1,0.07984946292963846,0.010979944128343789,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,C_test,sensitivity,-0.1526315789473684,0.10156684337046729,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:LogisticRegression,C_test,specificity,0.6002941176470589,0.1376725089594266,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,B_test,auprc,0.38146716004689896,0.09320411474182802,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,B_test,auroc,0.22621509209744498,0.045422125136849976,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,B_test,balanced_accuracy,0.2011229946524064,0.06788400285127967,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,B_test,brier,0.016820669367827935,0.028989892265843666,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,B_test,ece,0.06573253179009979,0.09522808032161467,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,B_test,f1,0.3237229260593497,0.038958146582611194,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,B_test,sensitivity,0.07636363636363637,0.29508921555734835,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,B_test,specificity,0.32588235294117646,0.38656403999406375,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,C_test,auprc,0.3103937824603814,0.047621181177388595,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,C_test,auroc,0.35006277949776393,0.04750547413261108,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,C_test,balanced_accuracy,0.2170639834881321,0.06289347309789395,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,C_test,brier,0.0472537732451689,0.017755407561200056,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,C_test,ece,-0.02705937490503082,0.04545687370315167,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,C_test,f1,0.08168158598358655,0.036071949121580266,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,C_test,sensitivity,-0.12842105263157894,0.08330265157964498,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:MLP,C_test,specificity,0.5625490196078431,0.18547869217736637,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,B_test,auprc,0.11719226683632145,0.09252299060613835,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,B_test,auroc,-0.0064844523668053265,0.06798040246019187,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,B_test,balanced_accuracy,0.14328579916815212,0.0687597240351475,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,B_test,brier,0.0054600891792838,0.021051720100645023,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,B_test,ece,0.09533331423578142,0.06075955419360985,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,B_test,f1,0.27834576006472583,0.049251814419854836,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,B_test,sensitivity,-0.09656565656565655,0.06176336118128412,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,B_test,specificity,0.3831372549019608,0.11019363614626625,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,C_test,auprc,0.36025826164153846,0.04785649731935189,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,C_test,auroc,0.357666265336544,0.028315515222420626,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,C_test,balanced_accuracy,0.2609253525971792,0.05817523636012486,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,C_test,brier,0.08123808995107117,0.008415716064456825,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,C_test,ece,-0.005645980528779728,0.028756850802484343,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,C_test,f1,0.1566601704110036,0.04637796010210345,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,C_test,sensitivity,0.012046783625731038,0.08861395616559395,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:RandomForest,C_test,specificity,0.5098039215686274,0.14719070883516103,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,B_test,auprc,0.13044765776338849,0.03569959976092788,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,B_test,auroc,-0.021406219053277865,0.031855071964728275,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,B_test,balanced_accuracy,0.13524064171122993,0.08562028724787923,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,B_test,brier,0.001999972588544713,0.01997090494725965,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,B_test,ece,0.08912283882031244,0.055265846574929035,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,B_test,f1,0.2693834123820965,0.06699220108775741,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,B_test,sensitivity,-0.1103030303030303,0.05526277304186891,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,B_test,specificity,0.38078431372549015,0.14202089508421953,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,C_test,auprc,0.35760887567001454,0.037720992378470874,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,C_test,auroc,0.36107384474257537,0.02307813307570769,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,C_test,balanced_accuracy,0.2809623323013416,0.046313753731846936,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,C_test,brier,0.09091799656740449,0.008291103642965304,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,C_test,ece,0.022831904480127754,0.02161223831406174,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,C_test,f1,0.17361089861948192,0.04908825536760642,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,C_test,sensitivity,0.04280701754385965,0.11190650975960116,5
+probability_oof_logistic_stacking,CT:DenseNet121 + EHR:XGBoost,C_test,specificity,0.5191176470588236,0.1278274981412284,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,B_test,auprc,0.26967934753640604,0.04542203350028011,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,B_test,auroc,0.08238859180035651,0.06402651359455275,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,B_test,balanced_accuracy,0.13051099227569812,0.03618343187118108,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,B_test,brier,-0.01912591590749015,0.012845741698666802,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,B_test,ece,0.03094424147041804,0.05188840147489708,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,B_test,f1,0.4357226609811688,0.06707052893618627,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,B_test,sensitivity,0.6747474747474748,0.07647472012423313,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,B_test,specificity,-0.41372549019607846,0.03936247039193084,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,C_test,auprc,0.1923947733377035,0.033628545359647675,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,C_test,auroc,0.16911506707946336,0.02747104157736584,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,C_test,balanced_accuracy,0.13996474028207775,0.024802402564708566,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,C_test,brier,0.04342453103941305,0.010232901828652337,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,C_test,ece,0.04354767628914084,0.03778912447103571,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,C_test,f1,0.0614174667093957,0.014835135923143944,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,C_test,sensitivity,-0.004678362573099415,0.05917568103263602,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:LogisticRegression,C_test,specificity,0.2846078431372549,0.09065155668244425,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,B_test,auprc,0.35890538321630505,0.09295392848437438,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,B_test,auroc,0.22231332937215292,0.09123322908840452,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,B_test,balanced_accuracy,0.18798573975044564,0.049611675000767054,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,B_test,brier,0.045484395471395614,0.061198417641429026,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,B_test,ece,0.13266451891915038,0.13080376743533045,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,B_test,f1,0.3451565879133217,0.10312193544734803,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,B_test,sensitivity,0.11636363636363636,0.3770224177409572,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,B_test,specificity,0.2596078431372549,0.3797994169006147,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,C_test,auprc,0.17732859274382312,0.05794967338321157,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,C_test,auroc,0.19204219699575736,0.05796953093726713,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,C_test,balanced_accuracy,0.17129514963880288,0.08104177282478206,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,C_test,brier,0.028901147297399676,0.012492769215279904,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,C_test,ece,-0.042842770598753896,0.08160175940888956,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,C_test,f1,0.06192933458037866,0.05294158907997565,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,C_test,sensitivity,-0.09368421052631581,0.071058527418852,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:MLP,C_test,specificity,0.4362745098039215,0.17186633834034368,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,B_test,auprc,0.052102209669888835,0.06575010812307615,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,B_test,auroc,-0.09989700930877406,0.03343496285435324,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,B_test,balanced_accuracy,0.12014854426619134,0.06499434279654927,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,B_test,brier,0.019735568824841548,0.029547614383991755,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,B_test,ece,0.15611710692500166,0.02159684193609017,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,B_test,f1,0.24825711089740832,0.07249943732492166,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,B_test,sensitivity,-0.0698989898989899,0.019144012509870134,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,B_test,specificity,0.31019607843137254,0.1344846486510595,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,C_test,auprc,0.2856179815817264,0.02397741681832816,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,C_test,auroc,0.2594131980277491,0.02211361953433277,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,C_test,balanced_accuracy,0.15695476436188513,0.0410279684491829,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,C_test,brier,0.061017727664126185,0.0022283141077368406,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,C_test,ece,-0.021216671798254986,0.012032768835462893,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,C_test,f1,0.09299827150203285,0.06410033277838532,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,C_test,sensitivity,0.03871345029239766,0.0877206627574184,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:RandomForest,C_test,specificity,0.27519607843137256,0.09260399455620824,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,B_test,auprc,0.049443639778611326,0.02463178976771676,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,B_test,auroc,-0.09065557536145766,0.015476018151739,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,B_test,balanced_accuracy,0.10921568627450977,0.054123902420201576,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,B_test,brier,0.01542792244399357,0.02898597608762991,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,B_test,ece,0.16864472135725514,0.06914628388965963,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,B_test,f1,0.2557288673172362,0.03577977632982933,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,B_test,sensitivity,-0.09333333333333334,0.05752079602464349,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,B_test,specificity,0.31176470588235294,0.11527844364579348,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,C_test,auprc,0.3002903095648907,0.01307193921307018,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,C_test,auroc,0.2817606925811261,0.01729730986079421,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,C_test,balanced_accuracy,0.18820691434468523,0.028802199561000805,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,C_test,brier,0.07101094267084895,0.0032920951490322393,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,C_test,ece,0.030219091449879432,0.01735799351335542,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,C_test,f1,0.09897908474746386,0.01804530345681797,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,C_test,sensitivity,0.03298245614035087,0.07304395556991287,5
+probability_oof_logistic_stacking,CT:ResNet18 + EHR:XGBoost,C_test,specificity,0.3434313725490196,0.11801698377049498,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,B_test,auprc,0.10930624732157142,0.0022479667449382926,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,B_test,auroc,-0.1421865715983363,0.004410628109699387,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,B_test,balanced_accuracy,0.03535353535353538,0.026984896629102632,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,B_test,brier,-0.04248675366296899,0.00010147931966927873,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,B_test,ece,-0.007512836707516688,0.0003667771301402032,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,B_test,f1,0.3931985294117647,0.054690546476906916,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,B_test,sensitivity,0.7373737373737375,0.049792959773196914,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,B_test,specificity,-0.6666666666666667,0.00876889402941096,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,C_test,auprc,0.11861459679403807,0.001062997428544583,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,C_test,auroc,0.08730306157550742,0.001243792499899655,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,C_test,balanced_accuracy,0.04725146198830419,0.006448920196683378,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,C_test,brier,0.020580225205081005,0.00026975796041125294,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,C_test,ece,0.03766151658806137,0.00011814657465627583,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,C_test,f1,0.01592570958809276,0.0031817193166480636,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,C_test,sensitivity,0.03450292397660826,0.0,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:LogisticRegression,C_test,specificity,0.06000000000000001,0.012897840393366802,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,B_test,auprc,0.1476284344666267,0.13751607403244887,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,B_test,auroc,-0.00041988512576748296,0.15601514911141948,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,B_test,balanced_accuracy,0.08724301841948898,0.08557543665749269,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,B_test,brier,0.0026302526183621276,0.05339282135645901,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,B_test,ece,0.17177556189333185,0.11999357378130275,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,B_test,f1,0.3696476370131015,0.20322732072862904,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,B_test,sensitivity,0.27919191919191916,0.46762636899286514,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,B_test,specificity,-0.10470588235294116,0.41655846345912956,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,C_test,auprc,0.0506085620738377,0.04772692521879812,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,C_test,auroc,0.0516096204563697,0.05334152102133795,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,C_test,balanced_accuracy,0.041082731338149284,0.057674091527494184,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,C_test,brier,0.005662381817652512,0.004502311121992059,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,C_test,ece,0.013597600676454533,0.026476950334973746,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,C_test,f1,0.01920944209317683,0.04859063134881024,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,C_test,sensitivity,0.04187134502923975,0.054915674776311485,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:MLP,C_test,specificity,0.04029411764705883,0.07586993869167187,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,B_test,auprc,0.03458140667700145,0.01037514201752892,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,B_test,auroc,-0.1469162210338681,0.004842095500468506,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,B_test,balanced_accuracy,0.025811051693404675,0.0780140412104322,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,B_test,brier,-0.01909769934473556,0.0037259219456180033,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,B_test,ece,0.15531025918370192,0.025239516803742052,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,B_test,f1,0.11834503534722995,0.1313246788541284,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,B_test,sensitivity,0.04848484848484848,0.14907119849998596,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,B_test,specificity,0.003137254901960801,0.12258901308197301,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,C_test,auprc,0.24029156007471034,0.016675141810433614,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,C_test,auroc,0.21727038183694533,0.00746798913977945,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,C_test,balanced_accuracy,0.1945949432404541,0.048237268908182335,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,C_test,brier,0.05143253928514431,0.00209574182577857,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,C_test,ece,0.007297553277715171,0.016747278323008975,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,C_test,f1,0.387694815542649,0.18082439780625692,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,C_test,sensitivity,0.387719298245614,0.1661348856990295,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:RandomForest,C_test,specificity,0.001470588235294118,0.07105560823570145,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,B_test,auprc,0.029801554268996423,0.04533357879547021,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,B_test,auroc,-0.13620518914636562,0.022299598845203623,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,B_test,balanced_accuracy,-0.04597147950089127,0.060849811433768455,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,B_test,brier,-0.02242193467775651,0.0017320604386287094,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,B_test,ece,0.12580306434174568,0.03672534138972421,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,B_test,f1,0.06522362209824495,0.10611541416210782,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,B_test,sensitivity,-0.16606060606060608,0.047601378505125296,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,B_test,specificity,0.07411764705882351,0.1183427145102834,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,C_test,auprc,0.2693152548201942,0.012699906671207089,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,C_test,auroc,0.23084823988074765,0.015505268576059366,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,C_test,balanced_accuracy,0.1999974200206399,0.05796104307146113,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,C_test,brier,0.06217406173825505,0.0023210160296640533,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,C_test,ece,0.03337479013559245,0.02128016980703449,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,C_test,f1,0.26420336267013583,0.1274956700630383,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,C_test,sensitivity,0.2908771929824562,0.1274267529768958,5
+probability_oof_logistic_stacking,CT:SimpleCNN + EHR:XGBoost,C_test,specificity,0.10911764705882354,0.0790239562370917,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,B_test,auprc,0.15982062202177932,0.059022698179636325,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,B_test,auroc,-0.08458704693998811,0.056188751710517265,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,B_test,balanced_accuracy,0.07575757575757576,0.029891690796807705,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,B_test,brier,-0.03912712185949618,0.0020874162598393344,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,B_test,ece,0.0069903697540626255,0.03059520378174372,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,B_test,f1,0.4401281074502137,0.00907621713377913,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,B_test,sensitivity,0.7515151515151516,0.05211573066470477,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,B_test,specificity,-0.6,0.10960240612282351,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,C_test,auprc,0.14027763996968512,0.026873942735202015,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,C_test,auroc,0.1190333677330581,0.029326234711961507,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,C_test,balanced_accuracy,0.06960526315789475,0.019941745330217163,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,C_test,brier,0.02819584449186784,0.007097489385588741,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,C_test,ece,0.03386046189315914,0.019821922192799164,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,C_test,f1,0.025054983948333588,0.007877067969408305,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,C_test,sensitivity,0.01754385964912284,0.024961925111594244,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:LogisticRegression,C_test,specificity,0.12166666666666667,0.060711531378243325,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,B_test,auprc,0.21695601654403934,0.09025477489664041,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,B_test,auroc,0.00945929887106356,0.13587143916413594,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,B_test,balanced_accuracy,0.06575757575757575,0.09095095424827294,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,B_test,brier,0.020203489850453577,0.07692827937805129,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,B_test,ece,0.15586621157542982,0.14020949920972867,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,B_test,f1,0.2684247479703334,0.060080645256219,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,B_test,sensitivity,0.16484848484848486,0.32063540120209777,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,B_test,specificity,-0.033333333333333354,0.38948600283608237,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,C_test,auprc,0.09643787023611847,0.04185619289987834,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,C_test,auroc,0.10703904368765049,0.06081291508089705,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,C_test,balanced_accuracy,0.05004385964912279,0.07374607036434974,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,C_test,brier,0.012351641359725284,0.008981170003183294,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,C_test,ece,-0.0010672480262676344,0.03850245870507208,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,C_test,f1,0.01423122169868687,0.04041473517989112,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,C_test,sensitivity,0.015087719298245594,0.014092232593133656,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:MLP,C_test,specificity,0.08499999999999999,0.14590544435630376,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,B_test,auprc,0.05669129893249436,0.02697006997226255,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,B_test,auroc,-0.14208358090711032,0.016886116569012562,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,B_test,balanced_accuracy,0.048134284016636976,0.03690485001576064,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,B_test,brier,-0.010537510514223636,0.010189840380798594,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,B_test,ece,0.14681118404586208,0.041001870882984626,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,B_test,f1,0.1873218686144583,0.0757389492895519,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,B_test,sensitivity,-0.08686868686868687,0.09662185085711614,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,B_test,specificity,0.18313725490196078,0.13150856289447968,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,C_test,auprc,0.2478192864285543,0.02766988701335321,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,C_test,auroc,0.23500573328746704,0.024306997813231854,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,C_test,balanced_accuracy,0.14956570347437223,0.05970466080238223,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,C_test,brier,0.05350650120932947,0.011240744322814116,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,C_test,ece,-0.014302790478870425,0.06556403995397736,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,C_test,f1,0.1630964729135182,0.18221713285562063,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,C_test,sensitivity,0.16432748538011693,0.17808673906774794,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:RandomForest,C_test,specificity,0.13480392156862747,0.09273649589092138,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,B_test,auprc,0.03470436463313471,0.037636884890835255,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,B_test,auroc,-0.13675579322638148,0.009622809209649185,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,B_test,balanced_accuracy,-0.06390968508615566,0.08403823403103342,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,B_test,brier,-0.014522502520962672,0.011512395701982562,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,B_test,ece,0.1698992205801275,0.025324980440383362,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,B_test,f1,0.06821203162748847,0.12767816547564148,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,B_test,sensitivity,-0.2125252525252525,0.11139907587912835,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,B_test,specificity,0.08470588235294116,0.06262856826142504,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,C_test,auprc,0.27241001822803845,0.024815724989912875,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,C_test,auroc,0.24925696594427244,0.029357899324013413,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,C_test,balanced_accuracy,0.17295235638114898,0.0664133899495567,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,C_test,brier,0.06417637180833861,0.01039357720742108,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,C_test,ece,0.0454482293592931,0.047921029511073666,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,C_test,f1,0.19516710763996334,0.11636519718788214,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,C_test,sensitivity,0.21953216374269005,0.11116157672047902,5
+probability_oof_logistic_stacking,CT:SwinTransformer + EHR:XGBoost,C_test,specificity,0.12637254901960787,0.07859541668100174,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,auprc,0.321353282022924,0.06931058754461651,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,auroc,0.13762725292137057,0.03865114169118618,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,balanced_accuracy,0.14191325014854422,0.056956518416358085,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,brier,-0.018170819568375733,0.006992421297404685,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,ece,-0.010790004660584584,0.024920793656459935,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,f1,0.37539082430976733,0.08177046126963657,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,sensitivity,0.4901010101010101,0.1433816947050501,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,B_test,specificity,-0.2062745098039216,0.16690525022558242,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,auprc,0.2753781251196924,0.056522937958478306,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,auroc,0.26411449375071666,0.0312755561942794,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,balanced_accuracy,0.19942122463020295,0.015817723321484917,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,brier,0.061959801111933686,0.013586194739451609,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,ece,0.00876660048194453,0.05879615377032855,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,f1,0.0759243244076105,0.016007885511694128,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,sensitivity,-0.10654970760233917,0.07776502555618284,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:LogisticRegression,C_test,specificity,0.5053921568627451,0.08417181970590185,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,B_test,auprc,0.3888318598966083,0.11084737643290135,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,B_test,auroc,0.2183323430382254,0.0722310710593285,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,B_test,balanced_accuracy,0.17605466428995842,0.0849449499780585,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,B_test,brier,0.05238151320854865,0.08540662566537319,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,B_test,ece,0.10932810302037255,0.1601114453066677,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,B_test,f1,0.34785342699590566,0.04815699282253226,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,B_test,sensitivity,0.19838383838383844,0.406523681878646,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,B_test,specificity,0.15372549019607842,0.5550727236731564,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,C_test,auprc,0.2817655390230037,0.03912334939620676,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,C_test,auroc,0.28954047700951724,0.040937956238027796,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,C_test,balanced_accuracy,0.21097093223254215,0.06901649493238546,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,C_test,brier,0.05076935826474314,0.02105080818318859,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,C_test,ece,-0.012025198299118297,0.04222217515281609,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,C_test,f1,0.085328967338774,0.03442382487359849,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,C_test,sensitivity,-0.08678362573099412,0.09566061064935485,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:MLP,C_test,specificity,0.5087254901960784,0.22111277503774043,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,B_test,auprc,0.1121935706113607,0.08426797064023668,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,B_test,auroc,-0.00952267775797191,0.06500499157492096,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,B_test,balanced_accuracy,0.13459298871063574,0.0633500199628542,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,B_test,brier,0.019010650987187218,0.01573290466581036,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,B_test,ece,0.09302816163937122,0.06733670975114872,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,B_test,f1,0.27315462787048805,0.047823972036924615,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,B_test,sensitivity,-0.08767676767676769,0.0737249193854699,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,B_test,specificity,0.35686274509803917,0.10942687364931349,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,C_test,auprc,0.35976880882331463,0.04325823665688608,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,C_test,auroc,0.35552516913198023,0.026154947897358484,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,C_test,balanced_accuracy,0.2556974544203646,0.04437334297437952,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,C_test,brier,0.07009877682840418,0.009010706926035714,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,C_test,ece,-0.03612251800644898,0.025718589036196563,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,C_test,f1,0.15449055422494554,0.028867227305699864,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,C_test,sensitivity,0.026198830409356732,0.07825383045873462,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:RandomForest,C_test,specificity,0.4851960784313725,0.1346047548308307,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,B_test,auprc,0.1393681381126216,0.06119254856240995,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,B_test,auroc,-0.006575559516735963,0.044018464937607506,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,B_test,balanced_accuracy,0.1566131907308378,0.0535661441226581,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,B_test,brier,0.016358939143202394,0.020234028480514737,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,B_test,ece,0.10272995134982606,0.059747836230982496,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,B_test,f1,0.2872109660026091,0.04136179651739598,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,B_test,sensitivity,-0.11030303030303028,0.05298169970876925,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,B_test,specificity,0.4235294117647059,0.07557291113961476,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,C_test,auprc,0.36091777421249677,0.05171900281039562,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,C_test,auroc,0.37131120284371055,0.029151131575897393,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,C_test,balanced_accuracy,0.27242260061919504,0.02907311434860839,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,C_test,brier,0.08842557331349947,0.01147132623820893,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,C_test,ece,0.008980211645041845,0.025981415813789616,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,C_test,f1,0.14950295017430731,0.0253365367316432,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,C_test,sensitivity,-0.020350877192982453,0.06432934606559365,5
+probability_oof_weighted_average,CT:DenseNet121 + EHR:XGBoost,C_test,specificity,0.5651960784313725,0.07953648521160248,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,B_test,auprc,0.24538259477562438,0.037656091937912944,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,B_test,auroc,0.04724103782927316,0.062468968335459764,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,B_test,balanced_accuracy,0.14399286987522278,0.013667790328365627,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,B_test,brier,-0.026447548616735695,0.005485166274378822,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,B_test,ece,0.012881998092162361,0.018901253400110524,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,B_test,f1,0.4723593270875751,0.012934136308867132,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,B_test,sensitivity,0.7115151515151515,0.028974232912011764,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,B_test,specificity,-0.4235294117647059,0.02630668208823282,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,C_test,auprc,0.17852192666015235,0.024940242584497806,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,C_test,auroc,0.14941807132209614,0.017761253954276912,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,C_test,balanced_accuracy,0.13810371517027864,0.036462437623288345,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,C_test,brier,0.043632477734418126,0.00784519743898619,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,C_test,ece,0.04364678799778214,0.02373571037633121,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,C_test,f1,0.05939195596554796,0.016851429815751325,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,C_test,sensitivity,-0.011929824561403502,0.05330722917127866,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:LogisticRegression,C_test,specificity,0.2881372549019608,0.10982219298261602,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,B_test,auprc,0.3056374008352389,0.10723514151476578,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,B_test,auroc,0.1579520697167756,0.10581377326459071,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,B_test,balanced_accuracy,0.13586452762923348,0.10914694548290445,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,B_test,brier,0.07868600618393067,0.15024800062312219,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,B_test,ece,0.14293359745425788,0.23222615832135884,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,B_test,f1,0.4478814103512148,0.19366281605729202,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,B_test,sensitivity,0.4387878787878788,0.5461002537952021,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,B_test,specificity,-0.16705882352941176,0.6061795704778777,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,C_test,auprc,0.13384297963514563,0.056460438570555695,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,C_test,auroc,0.12654856094484573,0.053658105898449784,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,C_test,balanced_accuracy,0.11063725490196075,0.06755545487378636,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,C_test,brier,0.026732709090944044,0.014038789644340768,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,C_test,ece,0.015959655517926795,0.023928583995407364,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,C_test,f1,0.0441826870588516,0.04767781804457939,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,C_test,sensitivity,-0.006666666666666665,0.05060693157269781,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:MLP,C_test,specificity,0.22794117647058823,0.11917915784542332,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,B_test,auprc,0.051676549018085716,0.06514657070796456,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,B_test,auroc,-0.1007724301841949,0.033116427892142385,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,B_test,balanced_accuracy,0.11511586452762926,0.06224853205960239,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,B_test,brier,0.016108830276766833,0.022683061081799703,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,B_test,ece,0.17385556832526686,0.036393633142090896,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,B_test,f1,0.24637386468351768,0.07118985126516689,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,B_test,sensitivity,-0.06545454545454546,0.022386901296476906,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,B_test,specificity,0.29568627450980395,0.13094310846603638,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,C_test,auprc,0.2846280371817513,0.023622516051508852,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,C_test,auroc,0.25766855865153077,0.02149134826373347,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,C_test,balanced_accuracy,0.16315015479876166,0.05113332333540019,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,C_test,brier,0.05424065295065368,0.001782703805840123,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,C_test,ece,-0.032862060231853445,0.021854364641084287,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,C_test,f1,0.10518856147094668,0.08858766803208466,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,C_test,sensitivity,0.05894736842105264,0.11795873947296147,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:RandomForest,C_test,specificity,0.2673529411764706,0.09559678192058405,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,B_test,auprc,0.045041837844786124,0.029671361787576365,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,B_test,auroc,-0.09882352941176469,0.018561113650907728,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,B_test,balanced_accuracy,0.08366013071895424,0.10754042482086584,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,B_test,brier,0.005638516540591271,0.024908842706002004,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,B_test,ece,0.16503445232000816,0.03867145983015754,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,B_test,f1,0.22610754358144475,0.11051718290214764,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,B_test,sensitivity,-0.09777777777777778,0.11287488977066926,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,B_test,specificity,0.26509803921568625,0.13886589582839073,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,C_test,auprc,0.29717553213920345,0.013572569792773891,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,C_test,auroc,0.2752554179566563,0.015615872698843576,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,C_test,balanced_accuracy,0.19493206054351564,0.047044457530187433,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,C_test,brier,0.0755348297019227,0.003192665934720371,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,C_test,ece,0.03587880810084616,0.04152092396159335,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,C_test,f1,0.12168071871007238,0.06219343414475047,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,C_test,sensitivity,0.08643274853801171,0.07514153397585514,5
+probability_oof_weighted_average,CT:ResNet18 + EHR:XGBoost,C_test,specificity,0.3034313725490196,0.08398176213099294,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,auprc,0.15459235256251241,0.04736720702441992,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,auroc,-0.07147553971083384,0.06495235228649707,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,balanced_accuracy,0.01852049910873439,0.09485169539007086,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,brier,-0.007986187211641405,0.001024280111800152,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,ece,0.12680177335509019,0.022377511027575733,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,f1,0.3481160690803892,0.13733963891139567,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,sensitivity,0.5927272727272727,0.25792450148142654,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,B_test,specificity,-0.5556862745098039,0.16878469640600985,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,auprc,0.1305421843778664,0.008568888715783067,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,auroc,0.11522302488246763,0.022634749521443374,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,balanced_accuracy,0.04996388028895773,0.008743305529137302,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,brier,0.0027159478091314583,0.0018657704354576859,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,ece,-0.07066307097980115,0.024817808654267744,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,f1,0.010616858541337537,0.004804070448902943,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,sensitivity,-0.0010526315789473495,0.03818538813699298,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:LogisticRegression,C_test,specificity,0.10098039215686275,0.0526670006413425,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,B_test,auprc,0.22436251197758805,0.08872746062906485,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,B_test,auroc,0.03315508021390372,0.1093435391667693,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,B_test,balanced_accuracy,0.053238265002970894,0.05854865421114393,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,B_test,brier,-0.000961565493233546,0.011725973559205639,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,B_test,ece,0.16324261996486925,0.026127306579620948,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,B_test,f1,0.33204483442682864,0.18820660350929797,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,B_test,sensitivity,0.2602020202020202,0.43270633455271335,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,B_test,specificity,-0.15372549019607842,0.37919409067206616,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,C_test,auprc,0.05779945579818798,0.053316999779395996,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,C_test,auroc,0.08057533539731683,0.05303974419386917,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,C_test,balanced_accuracy,0.04373667010663916,0.07914180451934098,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,C_test,brier,0.002127463006778013,0.002673571050959348,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,C_test,ece,-0.02011125955072723,0.02625726194451037,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,C_test,f1,0.011553621092054978,0.04903591423258628,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,C_test,sensitivity,0.019532163742690067,0.02860599705674577,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:MLP,C_test,specificity,0.06794117647058823,0.13130101212951886,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,B_test,auprc,0.06378684745964322,0.06726152885065836,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,B_test,auroc,-0.13731035848682907,0.029239221998884582,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,B_test,balanced_accuracy,0.0257516339869281,0.03561189716750805,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,B_test,brier,-0.0013916815693993001,0.001449730675035841,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,B_test,ece,0.12472070127145365,0.05904105881597913,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,B_test,f1,0.1580402804374283,0.06647046466981332,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,B_test,sensitivity,-0.035555555555555576,0.13196883685409366,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,B_test,specificity,0.08705882352941176,0.13004598009795845,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,C_test,auprc,0.24466733604068897,0.02363728817705898,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,C_test,auroc,0.22354689829148033,0.010351544266746933,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,C_test,balanced_accuracy,0.1533393532851737,0.07708603059017181,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,C_test,brier,0.007061634483984736,0.0018204949917996255,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,C_test,ece,-0.16562011753763328,0.03942008769132398,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,C_test,f1,0.22081365261530755,0.23921291510075648,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,C_test,sensitivity,0.20128654970760235,0.24583476575599986,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:RandomForest,C_test,specificity,0.10539215686274508,0.11079678482642852,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,B_test,auprc,0.07841024921064307,0.03518239563584648,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,B_test,auroc,-0.10787878787878795,0.022881189678075214,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,B_test,balanced_accuracy,-0.028597742127153915,0.025148553917618482,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,B_test,brier,-0.002295954743533607,0.0012039807489790356,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,B_test,ece,0.10398340335396088,0.038594469010770474,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,B_test,f1,0.11857732830997654,0.02869827395496448,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,B_test,sensitivity,-0.1713131313131313,0.09124964271817325,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,B_test,specificity,0.11411764705882352,0.06664359462352318,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,C_test,auprc,0.2663094437550846,0.03428901947326347,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,C_test,auroc,0.24390350877192982,0.020294927529425612,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,C_test,balanced_accuracy,0.17603543171654626,0.016528745994007225,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,C_test,brier,0.006927223920181769,0.0018686349700285463,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,C_test,ece,-0.14319013071061704,0.03535778040808971,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,C_test,f1,0.17507190821515337,0.1000670819878466,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,C_test,sensitivity,0.17461988304093568,0.13652785429398312,5
+probability_oof_weighted_average,CT:SimpleCNN + EHR:XGBoost,C_test,specificity,0.17745098039215687,0.12464241432771797,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,auprc,0.16603664869621892,0.0657994801753655,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,auroc,-0.07783323430382247,0.06607300819865314,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,balanced_accuracy,0.07562091503267973,0.02416947682858682,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,brier,-0.04041282256463346,0.0032289064283603976,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,ece,0.049225803465095655,0.05453561239606269,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,f1,0.42668868092691625,0.021889974933412458,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,sensitivity,0.7288888888888889,0.05255244051595747,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,B_test,specificity,-0.5776470588235294,0.09789793742199168,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,auprc,0.14065744161125077,0.027903354406530953,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,auroc,0.12267314528150444,0.032979015415975935,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,balanced_accuracy,0.07785775713794293,0.028321502127110775,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,brier,0.023687067677476737,0.006871144149443577,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,ece,0.030325828858651527,0.023612362629172698,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,f1,0.02963745397904276,0.013896771823427741,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,sensitivity,0.018362573099415247,0.02554959985200126,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:LogisticRegression,C_test,specificity,0.1373529411764706,0.06718136807805923,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,B_test,auprc,0.19190597186899325,0.11531065068397062,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,B_test,auroc,0.0118795801148742,0.15504902115035146,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,B_test,balanced_accuracy,0.09487225193107546,0.10276456295070745,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,B_test,brier,0.036634724778567926,0.1088490262977218,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,B_test,ece,0.1496492249934655,0.21629778021336116,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,B_test,f1,0.32514557068470096,0.13165176021667133,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,B_test,sensitivity,0.2513131313131313,0.42737324796029935,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,B_test,specificity,-0.06156862745098039,0.3925968120404168,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,C_test,auprc,0.09463448118107512,0.04142398211565574,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,C_test,auroc,0.0969553376906318,0.05690824000143884,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,C_test,balanced_accuracy,0.064625042999656,0.09493219035029155,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,C_test,brier,0.014534883056534742,0.009975527441080023,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,C_test,ece,0.014789796295996699,0.046195030324085264,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,C_test,f1,0.03033122557441379,0.0646470515459626,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,C_test,sensitivity,0.04748538011695909,0.04965838636811304,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:MLP,C_test,specificity,0.08176470588235293,0.14123747660643954,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,B_test,auprc,0.05320867363730362,0.035713388600589646,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,B_test,auroc,-0.14148544266191326,0.02439057890097296,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,B_test,balanced_accuracy,0.03378490790255497,0.08027057646754784,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,B_test,brier,-0.006433464512935377,0.008715954846782437,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,B_test,ece,0.14450030365591426,0.020219186951063128,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,B_test,f1,0.1573518143335209,0.13415581432672716,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,B_test,sensitivity,-0.06262626262626265,0.173284587339343,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,B_test,specificity,0.13019607843137254,0.17535924569837516,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,C_test,auprc,0.24437191007949494,0.025268843174335795,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,C_test,auroc,0.23483832129342966,0.023980019024364047,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,C_test,balanced_accuracy,0.1742793257653939,0.04555841420998408,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,C_test,brier,0.04154859303761306,0.00848388470673967,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,C_test,ece,-0.044362681455760965,0.03946248602862696,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,C_test,f1,0.24196822886341884,0.1982650574242519,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,C_test,sensitivity,0.24502923976608187,0.19391719396779517,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:RandomForest,C_test,specificity,0.10352941176470587,0.12298227336371301,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,B_test,auprc,0.032467104606783946,0.05696456525530126,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,B_test,auroc,-0.13771836007130123,0.015208473684240508,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,B_test,balanced_accuracy,-0.06939988116458709,0.08024530645627645,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,B_test,brier,-0.013363279996787691,0.012824730135069526,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,B_test,ece,0.13862636481112703,0.04010913865801648,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,B_test,f1,0.0603720506985004,0.12434138782427512,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,B_test,sensitivity,-0.22585858585858584,0.11310786192724215,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,B_test,specificity,0.08705882352941173,0.11253262161065435,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,C_test,auprc,0.2607769216212099,0.02684252166231784,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,C_test,auroc,0.2511093911248711,0.02878063721544126,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,C_test,balanced_accuracy,0.19965514275885793,0.07681659639618012,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,C_test,brier,0.050858285935211425,0.00977370419233825,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,C_test,ece,0.0034873249278750116,0.061180820773990806,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,C_test,f1,0.21878380318966947,0.13579740006234572,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,C_test,sensitivity,0.2272514619883041,0.1427503228121507,5
+probability_oof_weighted_average,CT:SwinTransformer + EHR:XGBoost,C_test,specificity,0.17205882352941174,0.10244453024071075,5
+representation,attention,B_test,auprc,0.2692088593228286,0.10450966087459806,5
+representation,attention,B_test,auroc,0.027470786294315718,0.07431044235488717,5
+representation,attention,B_test,balanced_accuracy,0.13932263814616758,0.035575186327987625,5
+representation,attention,B_test,brier,-8.474309093465804e-05,0.021840984222770272,5
+representation,attention,B_test,ece,0.12965574025172769,0.06091829347584023,5
+representation,attention,B_test,f1,0.3894663136946435,0.19562494086332716,5
+representation,attention,B_test,sensitivity,0.3672727272727273,0.415635148017739,5
+representation,attention,B_test,specificity,-0.08862745098039215,0.37065410764282,5
+representation,attention,C_test,auprc,0.20248568750955825,0.04605537286236047,5
+representation,attention,C_test,auroc,0.19602740511409247,0.023976641595300812,5
+representation,attention,C_test,balanced_accuracy,0.15217750257997936,0.042168769038672185,5
+representation,attention,C_test,brier,0.037480439250273445,0.01402161418878427,5
+representation,attention,C_test,ece,0.021941426200320545,0.04490998757471751,5
+representation,attention,C_test,f1,0.0632864456324225,0.03601885068730459,5
+representation,attention,C_test,sensitivity,-0.03368421052631574,0.11277425636647603,5
+representation,attention,C_test,specificity,0.3380392156862745,0.1263572983998171,5
+representation,concat_mlp,B_test,auprc,0.29567509370195805,0.07545366563727436,5
+representation,concat_mlp,B_test,auroc,0.052045949693008485,0.057014584920182715,5
+representation,concat_mlp,B_test,balanced_accuracy,0.07705288175876412,0.11348788275422626,5
+representation,concat_mlp,B_test,brier,0.0025623933547379795,0.021737541042356267,5
+representation,concat_mlp,B_test,ece,0.13791751427591464,0.032218908423282525,5
+representation,concat_mlp,B_test,f1,0.23598354075319175,0.05526005938547928,5
+representation,concat_mlp,B_test,sensitivity,0.05292929292929296,0.31531787890745766,5
+representation,concat_mlp,B_test,specificity,0.10117647058823534,0.525644914302739,5
+representation,concat_mlp,C_test,auprc,0.1775847465122673,0.04587599446896283,5
+representation,concat_mlp,C_test,auroc,0.16454993693383785,0.04104695259457131,5
+representation,concat_mlp,C_test,balanced_accuracy,0.14500343997248025,0.04303524617168885,5
+representation,concat_mlp,C_test,brier,0.018782672272159195,0.00890407405365283,5
+representation,concat_mlp,C_test,ece,-0.029365054290064065,0.013811618600464488,5
+representation,concat_mlp,C_test,f1,0.06326497227745491,0.035244780224509324,5
+representation,concat_mlp,C_test,sensitivity,-0.007836257309941507,0.05376715171683658,5
+representation,concat_mlp,C_test,specificity,0.29784313725490197,0.09306795667567165,5
+representation,cross_modal_transformer,B_test,auprc,0.43670995296112186,0.06430852831346177,5
+representation,cross_modal_transformer,B_test,auroc,0.18915032679738567,0.09993191870022478,5
+representation,cross_modal_transformer,B_test,balanced_accuracy,0.14860368389780151,0.04437288004101259,5
+representation,cross_modal_transformer,B_test,brier,0.06594162000978884,0.10775861570982663,5
+representation,cross_modal_transformer,B_test,ece,0.1132345869345529,0.14145820931104994,5
+representation,cross_modal_transformer,B_test,f1,0.2826327331706484,0.017092106366927234,5
+representation,cross_modal_transformer,B_test,sensitivity,-0.014949494949494945,0.2410804506706035,5
+representation,cross_modal_transformer,B_test,specificity,0.312156862745098,0.31797792015889037,5
+representation,cross_modal_transformer,C_test,auprc,0.2537403948618723,0.024235410371667872,5
+representation,cross_modal_transformer,C_test,auroc,0.24726436188510492,0.03615298672788163,5
+representation,cross_modal_transformer,C_test,balanced_accuracy,0.16294977640178876,0.06070530888722764,5
+representation,cross_modal_transformer,C_test,brier,0.0897590282721329,0.00964074140030278,5
+representation,cross_modal_transformer,C_test,ece,0.11810912667564107,0.05560310897253858,5
+representation,cross_modal_transformer,C_test,f1,0.08767431460455004,0.0678575094374766,5
+representation,cross_modal_transformer,C_test,sensitivity,0.010409356725146202,0.10863617888725127,5
+representation,cross_modal_transformer,C_test,specificity,0.3154901960784314,0.0548139175001284,5
+representation,gmu,B_test,auprc,0.3127656405481748,0.043211074976972574,5
+representation,gmu,B_test,auroc,0.09121806298276883,0.07344950200933596,5
+representation,gmu,B_test,balanced_accuracy,0.1093642305407011,0.039270190027012326,5
+representation,gmu,B_test,brier,0.006700853832289721,0.008227813678834064,5
+representation,gmu,B_test,ece,0.1454499787835366,0.03504612401814124,5
+representation,gmu,B_test,f1,0.2784342447675304,0.047944598891497846,5
+representation,gmu,B_test,sensitivity,0.1301010101010101,0.24633876566765991,5
+representation,gmu,B_test,specificity,0.08862745098039215,0.2274061822009047,5
+representation,gmu,C_test,auprc,0.17275971669903017,0.03154441357496,5
+representation,gmu,C_test,auroc,0.21126590987272098,0.037383236798410574,5
+representation,gmu,C_test,balanced_accuracy,0.1600300997592019,0.02937495977817812,5
+representation,gmu,C_test,brier,0.020681956509663767,0.003940271030278171,5
+representation,gmu,C_test,ece,-0.0010484665673076681,0.03861823908889509,5
+representation,gmu,C_test,f1,0.06242947071302185,0.023125145401308403,5
+representation,gmu,C_test,sensitivity,-0.040233918128655,0.08713293298950703,5
+representation,gmu,C_test,specificity,0.3602941176470588,0.11398139312054788,5
