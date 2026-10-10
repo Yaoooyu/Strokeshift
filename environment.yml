@@ -1,0 +1,16 @@
+name: strokeshift
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - xgboost
+  - pytorch
+  - monai
+  - nibabel
+  - matplotlib
+  - pyyaml

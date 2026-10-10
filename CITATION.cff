@@ -1,0 +1,5 @@
+cff-version: 1.2.0
+message: "Please cite the StrokeShift manuscript; author metadata will be finalized before public release."
+title: "StrokeShift: How Robust Is Multimodal Clinical Data Integration Across Institutions?"
+version: "0.1.0"
+date-released: "2026-10-09"
