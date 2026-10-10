@@ -196,13 +196,23 @@ script. Frozen analysis scripts and configurations are organized in
 
 ## Data access
 
-The processed StrokeShift benchmark data are distributed separately:
+Download the processed benchmark release here:
 
-`DATA_DOWNLOAD_LINK_TO_BE_ADDED`
+**[StrokeShift_Data_Release.tar.gz (Google Drive)](https://drive.google.com/file/d/1z4hNM_igCpDZlrU0VatKC3F2Ah7WN_if/view?usp=sharing)**
 
-The data package is intended for controlled research access under the applicable
-institutional approval and data-use process. This repository does not assert
-unrestricted public access to clinical data.
+The archive contains the complete frozen 599-case release:
+
+| Contents | Description |
+|---|---|
+| `processed_ncct/` | Model-ready, de-identified 128³ processed NCCT volumes for Centers A, B, and C |
+| `ehr/ehr.csv` | `benchmark_id` plus the 24 structured pre-treatment EHR features |
+| `labels/labels.csv` | Binary HT labels (`0` = non-HT; `1` = HT) |
+| `splits/` | Frozen A_train, A_val, B_test, C_test, and RQ5 support/query splits |
+| `metadata/` | Data dictionary and de-identified native acquisition metadata used for RQ1 |
+| Cohort records | `benchmark_manifest.csv`, `excluded_cases.csv`, cohort audit, file manifest, and SHA-256 checksums |
+
+The archive does **not** contain native CT volumes, direct identifiers, internal
+linkage fields, patient-level predictions, checkpoints, or experiment logs.
 
 ```text
 StrokeShift_Data_Release/
