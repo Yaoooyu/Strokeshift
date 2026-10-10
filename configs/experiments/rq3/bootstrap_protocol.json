@@ -1,0 +1,22 @@
+{
+  "selection": "All reported entities selected solely by maximum mean A_val AUROC in their prespecified group; B/C not used for selection",
+  "n_bootstrap": 2000,
+  "entities": [
+    {
+      "label": "source_selected_base",
+      "group": "base_ehr",
+      "entity": "XGBoost"
+    },
+    {
+      "label": "source_selected_probability_fusion",
+      "group": "probability_equal_average",
+      "entity": "CT:DenseNet121 + EHR:RandomForest"
+    },
+    {
+      "label": "source_selected_representation_fusion",
+      "group": "representation",
+      "entity": "cross_modal_transformer"
+    }
+  ],
+  "paired_comparisons": "Seed-mean probabilities, shared resamples; positive means improvement"
+}

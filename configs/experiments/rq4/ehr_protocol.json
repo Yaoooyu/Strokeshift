@@ -1,0 +1,37 @@
+{
+  "seeds": [
+    20260925,
+    20260926,
+    20260927,
+    20260928,
+    20260929
+  ],
+  "features": [
+    "htn_history",
+    "prior_stroke_history",
+    "hd_CHD",
+    "hd_MI",
+    "hd_VAF",
+    "hd_NVAF",
+    "hd_Other_HD",
+    "alcohol_history",
+    "diabetes_history",
+    "pre_stroke_mrs",
+    "dnt_time",
+    "arterial_plaque",
+    "admission_glucose",
+    "stent_implantation",
+    "hypertension_drug",
+    "diabetes_drug",
+    "gender",
+    "admission_nihss",
+    "admission_sbp",
+    "smoking_history",
+    "mechanical_thrombectomy",
+    "age",
+    "dyslipidemia_history",
+    "admission_dbp"
+  ],
+  "preprocessing": "median imputation + missingness indicators + standard scaling, fitted only on A_train",
+  "threshold": "maximal F1 on A_val only"
+}

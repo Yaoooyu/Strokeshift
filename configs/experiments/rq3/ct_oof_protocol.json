@@ -1,0 +1,15 @@
+{
+  "source_split": "A_train only",
+  "n_cases": 384,
+  "folds": 5,
+  "splitter": "StratifiedKFold",
+  "random_state": 20260925,
+  "epochs": 8,
+  "input": "CT_processed; 128 cubed",
+  "models": [
+    "SimpleCNN",
+    "ResNet18",
+    "DenseNet121",
+    "SwinTransformer"
+  ]
+}

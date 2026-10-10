@@ -1,0 +1,18 @@
+{
+  "oof_fitting_data": "A_train only; 5-fold strict OOF",
+  "external_data_use": "B/C evaluation only",
+  "threshold": "maximal F1 on each seed A_val only",
+  "methods": [
+    "equal_average",
+    "oof_weighted_average",
+    "oof_logistic_stacking"
+  ],
+  "pairs": 16,
+  "seeds": [
+    20260925,
+    20260926,
+    20260927,
+    20260928,
+    20260929
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "frozen_before_BC_query_results": true,
+  "seeds": [20260925, 20260926, 20260927, 20260928, 20260929],
+  "deep": {"optimizer": "AdamW", "learning_rate": 0.001, "weight_decay": 0.0001, "optimizer_updates": 25, "batch_size": 2, "loss": "unweighted BCEWithLogits", "mixed_precision": true, "early_stopping": false, "heads": {"Generic Cross-modal Transformer": "head", "DrFuse": "final", "MedFuse": "cls", "M3Care": "cls", "IRENE": "head"}},
+  "score_calibration": {"method": "Platt logistic calibration", "C": 1.0, "solver": "lbfgs", "max_iter": 1000, "threshold": 0.5, "models": ["XGBoost", "Source-selected probability fusion"]}
+}

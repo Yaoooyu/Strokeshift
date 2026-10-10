@@ -1,0 +1,20 @@
+{
+  "metrics": [
+    "auroc",
+    "auprc",
+    "f1",
+    "balanced_accuracy",
+    "sensitivity",
+    "specificity",
+    "brier",
+    "ece"
+  ],
+  "predictions_evaluated": 900,
+  "per_seed_metric_rows": 7200,
+  "source_selected_reference": {
+    "group": "base_ehr",
+    "entity": "XGBoost",
+    "criterion": "maximum mean A_val AUROC among frozen base models only"
+  },
+  "B_C_role": "held-out evaluation only"
+}

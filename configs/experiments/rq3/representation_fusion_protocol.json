@@ -1,0 +1,20 @@
+{
+  "training": "A_train only",
+  "selection": "best AUROC epoch and F1 threshold on A_val only",
+  "external": "B/C evaluation-only after model selection",
+  "seeds": [
+    20260925,
+    20260926,
+    20260927,
+    20260928,
+    20260929
+  ],
+  "epochs": 8,
+  "models": [
+    "concat_mlp",
+    "gmu",
+    "attention",
+    "cross_modal_transformer"
+  ],
+  "ehr_preprocessing": "median imputation + indicators + scaling, fitted A_train only"
+}

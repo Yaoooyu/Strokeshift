@@ -1,0 +1,27 @@
+{
+  "source_only": true,
+  "seeds": [
+    20260925,
+    20260926,
+    20260927,
+    20260928,
+    20260929
+  ],
+  "hidden": 128,
+  "heads": 4,
+  "patch_3d": 32,
+  "bidirectional_multimodal_blocks": 2,
+  "post_fusion_self_attention_blocks": 10,
+  "epochs_max": 100,
+  "patience": 10,
+  "batch": 2,
+  "accumulation": 8,
+  "core": [
+    "3D CT patch tokenization",
+    "structured EHR field/value/missingness tokens",
+    "intramodal attention",
+    "bidirectional intermodal attention",
+    "two MDT blocks",
+    "ten self-attention blocks"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source_split": "A_train only",
+  "n_cases": 384,
+  "folds": 5,
+  "splitter": "StratifiedKFold",
+  "random_state": 20260925,
+  "features": [
+    "htn_history",
+    "prior_stroke_history",
+    "hd_CHD",
+    "hd_MI",
+    "hd_VAF",
+    "hd_NVAF",
+    "hd_Other_HD",
+    "alcohol_history",
+    "diabetes_history",
+    "pre_stroke_mrs",
+    "dnt_time",
+    "arterial_plaque",
+    "admission_glucose",
+    "stent_implantation",
+    "hypertension_drug",
+    "diabetes_drug",
+    "gender",
+    "admission_nihss",
+    "admission_sbp",
+    "smoking_history",
+    "mechanical_thrombectomy",
+    "age",
+    "dyslipidemia_history",
+    "admission_dbp"
+  ]
+}
